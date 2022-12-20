@@ -1,6 +1,6 @@
 {
-  "name": "Persian",
-  "dex": 53,
+  "name": "Meowth",
+  "dex": 52,
   "defaultForms": [
     ""
   ],
@@ -9,24 +9,31 @@
       "name": "",
       "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 0.8,
-        "width": 0.6,
+        "height": 0.54,
+        "width": 0.4,
         "length": 1,
-        "eyeHeight": 0.8,
-        "hoverHeight": 0.8
+        "eyeHeight": 0.54,
+        "hoverHeight": 0.54
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Blaze Kick",
               "Fake Out",
-              "Feint",
-              "Growl",
-              "Power Gem",
-              "Scratch",
-              "Switcheroo"
+              "Growl"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Feint"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Scratch"
             ]
           },
           {
@@ -54,40 +61,38 @@
             ]
           },
           {
-            "level": 31,
+            "level": 29,
             "attacks": [
               "Fury Swipes"
             ]
           },
           {
-            "level": 36,
+            "level": 32,
             "attacks": [
               "Screech"
             ]
           },
           {
-            "level": 42,
+            "level": 36,
             "attacks": [
               "Slash"
             ]
           },
           {
-            "level": 48,
+            "level": 40,
             "attacks": [
               "Nasty Plot"
             ]
           },
           {
-            "level": 54,
+            "level": 44,
             "attacks": [
               "Play Rough"
             ]
           }
         ],
         "tutorMoves": [
-          "Drill Run",
-          "Lash Out",
-          "Skitter Smack"
+          "Lash Out"
         ],
         "eggMoves": [
           "Covet",
@@ -100,8 +105,6 @@
         ],
         "tmMoves8": [
           "Pay Day",
-          "Hyper Beam",
-          "Giga Impact",
           "Dig",
           "Screech",
           "Rest",
@@ -120,8 +123,7 @@
           "Assurance",
           "Shadow Claw",
           "Round",
-          "Retaliate",
-          "Tail Slap"
+          "Retaliate"
         ],
         "trMoves": [
           "Body Slam",
@@ -138,7 +140,6 @@
           "Hyper Voice",
           "Dark Pulse",
           "Seed Bomb",
-          "Power Gem",
           "Nasty Plot",
           "Gunk Shot",
           "Foul Play",
@@ -162,10 +163,10 @@
           "Double-Edge",
           "Dream Eater",
           "Echoed Voice",
-          "Embargo",
           "Feint Attack",
           "Flash",
           "Frustration",
+          "Happy Hour",
           "Headbutt",
           "Hidden Power",
           "Hone Claws",
@@ -181,7 +182,6 @@
           "Punishment",
           "Rage",
           "Return",
-          "Roar",
           "Secret Power",
           "Shock Wave",
           "Sing",
@@ -197,12 +197,10 @@
         ],
         "tmMoves7": [
           "Work Up",
-          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -219,10 +217,8 @@
           "Thief",
           "Round",
           "Echoed Voice",
-          "Embargo",
           "Shadow Claw",
           "Payback",
-          "Giga Impact",
           "Psych Up",
           "Dream Eater",
           "Swagger",
@@ -230,17 +226,14 @@
           "U-turn",
           "Substitute",
           "Dark Pulse",
-          "Dazzling Gleam",
           "Confide"
         ],
         "tmMoves6": [
           "Hone Claws",
-          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -258,11 +251,9 @@
           "Thief",
           "Round",
           "Echoed Voice",
-          "Embargo",
           "Shadow Claw",
           "Payback",
           "Retaliate",
-          "Giga Impact",
           "Flash",
           "Psych Up",
           "Dream Eater",
@@ -272,17 +263,14 @@
           "Substitute",
           "Secret Power",
           "Dark Pulse",
-          "Dazzling Gleam",
           "Confide"
         ],
         "tmMoves5": [
           "Hone Claws",
-          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -300,11 +288,9 @@
           "Thief",
           "Round",
           "Echoed Voice",
-          "Embargo",
           "Shadow Claw",
           "Payback",
           "Retaliate",
-          "Giga Impact",
           "Flash",
           "Psych Up",
           "Work Up",
@@ -315,12 +301,10 @@
         ],
         "tmMoves4": [
           "Water Pulse",
-          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -341,10 +325,8 @@
           "Thief",
           "Snatch",
           "Endure",
-          "Embargo",
           "Shadow Claw",
           "Payback",
-          "Giga Impact",
           "Flash",
           "Psych Up",
           "Captivate",
@@ -358,12 +340,10 @@
         ],
         "tmMoves3": [
           "Water Pulse",
-          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -387,14 +367,12 @@
         "tmMoves2": [
           "Headbutt",
           "Curse",
-          "Roar",
           "Toxic",
           "Zap Cannon",
           "Psych Up",
           "Hidden Power",
           "Sunny Day",
           "Snore",
-          "Hyper Beam",
           "Icy Wind",
           "Protect",
           "Endure",
@@ -423,7 +401,6 @@
           "Double-Edge",
           "Bubble Beam",
           "Water Gun",
-          "Hyper Beam",
           "Pay Day",
           "Rage",
           "Thunderbolt",
@@ -440,7 +417,7 @@
       },
       "abilities": {
         "abilities": [
-          "Limber",
+          "Pickup",
           "Technician"
         ],
         "hiddenAbilities": [
@@ -448,22 +425,10 @@
         ]
       },
       "movement": {
-        "rideable": true,
+        "rideable": false,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false,
-        "ridingOffsets": {
-          "standing": {
-            "x": 0.0,
-            "y": -0.9,
-            "z": -0.1
-          },
-          "moving": {
-            "x": 0.0,
-            "y": -0.9,
-            "z": -0.1
-          }
-        }
+        "canRideShoulder": false
       },
       "aggression": {
         "timid": 80,
@@ -471,19 +436,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 65,
-        "attack": 110,
-        "defense": 60,
-        "specialAttack": 65,
-        "specialDefense": 65,
-        "speed": 115
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 90
       },
       "tags": [],
       "spawn": {
-        "baseExp": 148,
+        "baseExp": 69,
         "baseFriendship": 70,
-        "spawnLevel": 28,
-        "spawnLevelRange": 22,
+        "spawnLevel": 10,
+        "spawnLevelRange": 18,
         "spawnLocations": [
           "LAND"
         ]
@@ -498,23 +463,24 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/053_persian/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/053_persian/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/052_meowth/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/053_persian/all/base/none/model.pqc"
+                  "pixelmon:pokemon/052_meowth/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.persian"
+                "pixelmon.mob.meowth",
+                "pixelmon.mob.meowth"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/053_persian/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/053_persian/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/052_meowth/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             }
           ]
@@ -526,44 +492,56 @@
       "types": [
         "NORMAL"
       ],
-      "preEvolutions": [
-        "Meowth"
-      ],
+      "preEvolutions": [],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
       "gigantamax": {
-        "canHaveFactor": false,
-        "canGigantamax": false
+        "canHaveFactor": true,
+        "canGigantamax": true,
+        "form": "gmax",
+        "move": "G-Max Gold Rush"
       },
       "eggCycles": 21,
-      "weight": 32.0,
-      "catchRate": 90,
+      "weight": 4.2,
+      "catchRate": 255,
       "malePercentage": 50,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "level": 28,
+          "to": "Persian form:base",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Power Gem"
+          ]
+        }
+      ],
       "evYields": {
-        "speed": 2
+        "speed": 1
       }
     },
     {
       "name": "alolan",
-      "dimensions": {
-        "height": 1.2,
-        "width": 0.8,
-        "length": 0.8
-      },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
               "Fake Out",
-              "Feint",
-              "Growl",
-              "Power Gem",
-              "Quash",
-              "Scratch",
-              "Switcheroo"
+              "Growl"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Feint"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Scratch"
             ]
           },
           {
@@ -591,40 +569,38 @@
             ]
           },
           {
-            "level": 31,
+            "level": 29,
             "attacks": [
               "Fury Swipes"
             ]
           },
           {
-            "level": 36,
+            "level": 32,
             "attacks": [
               "Screech"
             ]
           },
           {
-            "level": 42,
+            "level": 36,
             "attacks": [
               "Night Slash"
             ]
           },
           {
-            "level": 48,
+            "level": 40,
             "attacks": [
               "Nasty Plot"
             ]
           },
           {
-            "level": 54,
+            "level": 44,
             "attacks": [
               "Play Rough"
             ]
           }
         ],
         "tutorMoves": [
-          "Burning Jealousy",
-          "Lash Out",
-          "Skitter Smack"
+          "Lash Out"
         ],
         "eggMoves": [
           "Covet",
@@ -636,8 +612,6 @@
         ],
         "tmMoves8": [
           "Pay Day",
-          "Hyper Beam",
-          "Giga Impact",
           "Dig",
           "Screech",
           "Rest",
@@ -649,17 +623,14 @@
           "Attract",
           "Rain Dance",
           "Sunny Day",
-          "Beat Up",
           "Facade",
           "Swift",
-          "Fake Tears",
           "U-turn",
           "Payback",
           "Assurance",
           "Shadow Claw",
           "Round",
-          "Retaliate",
-          "Snarl"
+          "Retaliate"
         ],
         "trMoves": [
           "Body Slam",
@@ -674,15 +645,12 @@
           "Uproar",
           "Taunt",
           "Hyper Voice",
-          "Blaze Kick",
           "Dark Pulse",
           "Seed Bomb",
-          "Power Gem",
           "Nasty Plot",
           "Gunk Shot",
           "Foul Play",
           "Work Up",
-          "Drill Run",
           "Play Rough",
           "Throat Chop"
         ],
@@ -704,8 +672,8 @@
           "Last Resort",
           "Psych Up",
           "Punishment",
+          "Quash",
           "Return",
-          "Roar",
           "Shock Wave",
           "Slash",
           "Snatch",
@@ -716,12 +684,10 @@
         ],
         "tmMoves7": [
           "Work Up",
-          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -742,16 +708,13 @@
           "Embargo",
           "Shadow Claw",
           "Payback",
-          "Giga Impact",
           "Psych Up",
           "Dream Eater",
           "Swagger",
           "Sleep Talk",
           "U-turn",
           "Substitute",
-          "Snarl",
           "Dark Pulse",
-          "Dazzling Gleam",
           "Confide"
         ],
         "tmMoves6": [],
@@ -764,7 +727,7 @@
       },
       "abilities": {
         "abilities": [
-          "FurCoat",
+          "Pickup",
           "Technician"
         ],
         "hiddenAbilities": [
@@ -772,12 +735,12 @@
         ]
       },
       "battleStats": {
-        "hp": 65,
-        "attack": 60,
-        "defense": 70,
-        "specialAttack": 105,
-        "specialDefense": 65,
-        "speed": 115
+        "hp": 40,
+        "attack": 35,
+        "defense": 35,
+        "specialAttack": 50,
+        "specialDefense": 40,
+        "speed": 90
       },
       "types": [
         "DARK"
@@ -788,20 +751,276 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/053_persian/all/alolan/none/texture.png",
-              "sprite": "pixelmon:pokemon/053_persian/all/alolan/none/sprite.png",
+              "texture": "pixelmon:pokemon/052_meowth/all/alolan/none/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/alolan/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/053_persian/all/alolan/none/model.pqc"
+                  "pixelmon:pokemon/052_meowth/all/alolan/none/model.pqc"
+                ],
+                "animationThreshold": 1.5,
+                "movementThreshold": 0.02
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/052_meowth/all/alolan/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/alolan/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "evolutions": [
+        {
+          "to": "Persian form:alolan",
+          "conditions": [
+            {
+              "friendship": 220,
+              "evoConditionType": "friendship"
+            }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Power Gem"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "galarian",
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Fake Out",
+              "Growl"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Hone Claws"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Scratch"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Pay Day"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Metal Claw"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Taunt"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Swagger"
+            ]
+          },
+          {
+            "level": 29,
+            "attacks": [
+              "Fury Swipes"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Screech"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Slash"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Metal Sound"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Thrash"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Lash Out",
+          "Steel Beam"
+        ],
+        "eggMoves": [
+          "Covet",
+          "Curse",
+          "Double-Edge",
+          "Flail",
+          "Night Slash",
+          "Spite"
+        ],
+        "tmMoves8": [
+          "Pay Day",
+          "Dig",
+          "Screech",
+          "Rest",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Charm",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Swift",
+          "U-turn",
+          "Payback",
+          "Assurance",
+          "Shadow Claw",
+          "Round",
+          "Retaliate"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Thunderbolt",
+          "Thunder",
+          "Amnesia",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Shadow Ball",
+          "Uproar",
+          "Taunt",
+          "Hyper Voice",
+          "Dark Pulse",
+          "Seed Bomb",
+          "Nasty Plot",
+          "Gunk Shot",
+          "Foul Play",
+          "Work Up",
+          "Play Rough",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Pickup",
+          "ToughClaws"
+        ],
+        "hiddenAbilities": [
+          "Unnerve"
+        ]
+      },
+      "battleStats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 55,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 40
+      },
+      "types": [
+        "STEEL"
+      ],
+      "weight": 7.5,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/052_meowth/all/galarian/none/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/galarian/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/052_meowth/all/galarian/none/model.pqc"
                 ]
               }
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/053_persian/all/alolan/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/053_persian/all/alolan/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/052_meowth/all/galarian/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/galarian/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "evolutions": [
+        {
+          "level": 28,
+          "to": "Perrserker",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Iron Head"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gmax",
+      "tags": [
+        "temp"
+      ],
+      "dimensions": {
+        "height": 1.0,
+        "width": 0.4,
+        "length": 0.4
+      },
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/052_meowth/all/gmax/none/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/gmax/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/052_meowth/all/gmax/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/052_meowth/all/gmax/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/052_meowth/all/gmax/shiny/sprite.png",
               "particle": "arcanery:shiny"
             }
           ]

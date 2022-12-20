@@ -116,6 +116,12 @@
             "attacks": [
               "Heavy Slam"
             ]
+          },
+          {
+            "level": 65,
+            "attacks": [
+              "Head Smash"
+            ]
           }
         ],
         "tutorMoves": [
@@ -614,6 +620,12 @@
             "level": 60,
             "attacks": [
               "Heavy Slam"
+            ]
+          },
+          {
+            "level": 65,
+            "attacks": [
+              "Head Smash"
             ]
           }
         ],

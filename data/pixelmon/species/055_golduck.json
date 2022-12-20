@@ -136,6 +136,7 @@
           "Round"
         ],
         "trMoves": [
+          "Swords Dance",
           "Body Slam",
           "Hydro Pump",
           "Surf",
@@ -314,6 +315,7 @@
           "Shadow Claw",
           "Giga Impact",
           "Flash",
+          "Swords Dance",
           "Psych Up",
           "Swagger",
           "Substitute",
@@ -350,6 +352,7 @@
           "Shadow Claw",
           "Giga Impact",
           "Flash",
+          "Swords Dance",
           "Psych Up",
           "Captivate",
           "Sleep Talk",
@@ -412,6 +415,7 @@
         ],
         "tmMoves1": [
           "Mega Punch",
+          "Swords Dance",
           "Mega Kick",
           "Toxic",
           "Body Slam",
@@ -440,7 +444,7 @@
       },
       "abilities": {
         "abilities": [
-          "Damp",
+          "Tough Claws",
           "CloudNine"
         ],
         "hiddenAbilities": [

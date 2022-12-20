@@ -101,14 +101,19 @@
             "attacks": [
               "Brave Bird"
             ]
+          },
+          {
+
           }
         ],
         "tutorMoves": [
-          "Dual Wingbeat"
+          "Dual Wingbeat",
+          "Sucker Punch"
         ],
         "eggMoves": [
           "Covet",
           "Curse",
+          "Extreme Speed",
           "Feather Dance",
           "Feint",
           "Final Gambit",
@@ -119,7 +124,8 @@
           "Quick Attack",
           "Roost",
           "Simple Beam",
-          "Sky Attack"
+          "Sky Attack",
+          "Sucker Punch"
         ],
         "tmMoves8": [
           "Fly",
@@ -380,7 +386,7 @@
       },
       "abilities": {
         "abilities": [
-          "KeenEye",
+          "Aerilate",
           "InnerFocus"
         ],
         "hiddenAbilities": [
