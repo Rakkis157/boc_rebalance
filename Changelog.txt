@@ -72,10 +72,34 @@ Moves: Aura Sphere (TR)
 ATK 85 -> 90, SPA 95 -> 100
 Moves: Aura Sphere (TR)
 
+028 Sandslash
+HP 75 -> 95, ATK 100 -> 120, SPA 45 - 35
+Moves: Spiky Shield
+
+037 Vulpix
+ATK 40 -> 25, SPA 65 -> 106
+
+037 Vulpix-Alola
+HP 38 -> 48, DEF 40 -> 60, SPD 65 -> 75
+
+038 Ninetales
+ATK 76 -> 50, SPA 81 -> 157
+Moves: Psychic (TM), Shadow Ball (TM)
+
+038 Ninetales-Alola
+HP 73 -> 83, SPD 100 -> 140
+
+040 Wigglytuff
+Abilities: Fur Coat
+ATK 70 -> 50, DEF 45 -> 70, SPD 50 -> 75
+Moves: Boomburst (Level 0)
+Abilities: Frisk -> Friend Guard
+
+045 Vileplume
+
+
 125 Electabuzz
 Moves: Volt Tackle (Elekid)
-
-172 Pichu
 
 
 239 Elekid

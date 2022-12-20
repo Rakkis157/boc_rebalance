@@ -1,6 +1,6 @@
 {
-  "name": "Ninetales",
-  "dex": 38,
+  "name": "Vulpix",
+  "dex": 37,
   "defaultForms": [
     ""
   ],
@@ -9,40 +9,108 @@
       "name": "",
       "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 1.1,
-        "width": 0.6,
+        "height": 0.5,
+        "width": 0.4,
         "length": 1,
-        "eyeHeight": 1.1,
-        "hoverHeight": 1.1
+        "eyeHeight": 0.5,
+        "hoverHeight": 0.5
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Confuse Ray",
-              "Disable",
               "Ember",
-              "Extrasensory",
-              "Fire Blast",
-              "Fire Spin",
-              "Flamethrower",
-              "Grudge",
-              "Imprison",
-              "Incinerate",
-              "Inferno",
-              "Nasty Plot",
-              "Quick Attack",
-              "Safeguard",
-              "Spite",
-              "Tail Whip",
+              "Tail Whip"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Disable"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Quick Attack"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Spite"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Incinerate"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Confuse Ray"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
               "Will-O-Wisp"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Extrasensory"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Flamethrower"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Imprison"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Fire Spin"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Safeguard"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Inferno"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Grudge"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Fire Blast"
             ]
           }
         ],
         "tutorMoves": [
-          "Burning Jealousy",
-          "Scorching Sands"
+          "Burning Jealousy"
         ],
         "eggMoves": [
           "Baby-Doll Eyes",
@@ -54,9 +122,6 @@
           "Roar"
         ],
         "tmMoves8": [
-          "Hyper Beam",
-          "Giga Impact",
-          "Solar Beam",
           "Fire Spin",
           "Dig",
           "Safeguard",
@@ -70,7 +135,6 @@
           "Swift",
           "Imprison",
           "Weather Ball",
-          "Fake Tears",
           "Payback",
           "Power Swap",
           "Round",
@@ -81,44 +145,37 @@
         "trMoves": [
           "Body Slam",
           "Flamethrower",
-          "Psychic",
           "Agility",
           "Fire Blast",
           "Substitute",
-          "Psyshock",
           "Endure",
           "Sleep Talk",
           "Encore",
           "Iron Tail",
-          "Shadow Ball",
           "Heat Wave",
           "Overheat",
-          "Calm Mind",
           "Flare Blitz",
           "Dark Pulse",
           "Energy Ball",
-          "Nasty Plot",
           "Zen Headbutt",
-          "Foul Play",
-          "Stored Power"
+          "Foul Play"
         ],
         "hmMoves": [],
         "transferMoves": [
           "Bide",
           "Captivate",
+          "Celebrate",
           "Charm",
           "Confide",
           "Covet",
           "Curse",
           "Double Team",
           "Double-Edge",
-          "Dream Eater",
           "Feint Attack",
           "Flame Burst",
           "Frustration",
           "Headbutt",
           "Hidden Power",
-          "Laser Focus",
           "Mimic",
           "Natural Gift",
           "Ominous Wind",
@@ -136,20 +193,14 @@
           "Toxic"
         ],
         "tmMoves7": [
-          "Psyshock",
-          "Calm Mind",
           "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
           "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
-          "Psychic",
-          "Shadow Ball",
           "Double Team",
           "Flamethrower",
           "Fire Blast",
@@ -162,9 +213,7 @@
           "Energy Ball",
           "Will-O-Wisp",
           "Payback",
-          "Giga Impact",
           "Psych Up",
-          "Dream Eater",
           "Swagger",
           "Sleep Talk",
           "Substitute",
@@ -172,21 +221,15 @@
           "Confide"
         ],
         "tmMoves6": [
-          "Psyshock",
-          "Calm Mind",
           "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
           "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
           "Dig",
-          "Psychic",
-          "Shadow Ball",
           "Double Team",
           "Flamethrower",
           "Fire Blast",
@@ -200,9 +243,7 @@
           "Incinerate",
           "Will-O-Wisp",
           "Payback",
-          "Giga Impact",
           "Psych Up",
-          "Dream Eater",
           "Swagger",
           "Sleep Talk",
           "Substitute",
@@ -211,21 +252,15 @@
           "Confide"
         ],
         "tmMoves5": [
-          "Psyshock",
-          "Calm Mind",
           "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
           "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
           "Dig",
-          "Psychic",
-          "Shadow Ball",
           "Double Team",
           "Flamethrower",
           "Fire Blast",
@@ -239,28 +274,21 @@
           "Incinerate",
           "Will-O-Wisp",
           "Payback",
-          "Giga Impact",
           "Psych Up",
-          "Dream Eater",
           "Swagger",
           "Substitute"
         ],
         "tmMoves4": [
-          "Calm Mind",
           "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
           "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Iron Tail",
           "Return",
           "Dig",
-          "Psychic",
-          "Shadow Ball",
           "Double Team",
           "Flamethrower",
           "Fire Blast",
@@ -272,13 +300,11 @@
           "Endure",
           "Will-O-Wisp",
           "Payback",
-          "Giga Impact",
           "Psych Up",
           "Captivate",
           "Dark Pulse",
           "Sleep Talk",
           "Natural Gift",
-          "Dream Eater",
           "Swagger",
           "Substitute"
         ],
@@ -287,15 +313,12 @@
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
           "Safeguard",
           "Frustration",
           "Iron Tail",
           "Return",
           "Dig",
-          "Psychic",
-          "Shadow Ball",
           "Double Team",
           "Flamethrower",
           "Fire Blast",
@@ -308,20 +331,16 @@
         "tmMoves2": [
           "Headbutt",
           "Curse",
-          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Snore",
-          "Hyper Beam",
           "Protect",
           "Endure",
           "Frustration",
           "Iron Tail",
           "Return",
           "Dig",
-          "Psychic",
-          "Shadow Ball",
           "Double Team",
           "Swagger",
           "Sleep Talk",
@@ -335,10 +354,8 @@
           "Body Slam",
           "Take Down",
           "Double-Edge",
-          "Hyper Beam",
           "Rage",
           "Dig",
-          "Psychic",
           "Mimic",
           "Double Team",
           "Reflect",
@@ -360,22 +377,10 @@
         ]
       },
       "movement": {
-        "rideable": true,
+        "rideable": false,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false,
-        "ridingOffsets": {
-          "standing": {
-            "x": 0.0,
-            "y": -0.9,
-            "z": -0.17
-          },
-          "moving": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        }
+        "canRideShoulder": false
       },
       "aggression": {
         "timid": 80,
@@ -383,19 +388,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 73,
-        "attack": 50,
-        "defense": 75,
-        "specialAttack": 157,
-        "specialDefense": 100,
-        "speed": 100
+        "hp": 38,
+        "attack": 25,
+        "defense": 40,
+        "specialAttack": 50,
+        "specialDefense": 65,
+        "speed": 65
       },
       "tags": [],
       "spawn": {
-        "baseExp": 178,
+        "baseExp": 63,
         "baseFriendship": 70,
-        "spawnLevel": 20,
-        "spawnLevelRange": 30,
+        "spawnLevel": 10,
+        "spawnLevelRange": 9,
         "spawnLocations": [
           "LAND"
         ]
@@ -410,29 +415,30 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/038_ninetales/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/038_ninetales/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/037_vulpix/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/037_vulpix/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/038_ninetales/all/base/none/model.pqc"
+                  "pixelmon:pokemon/037_vulpix/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.ninetales"
+                "pixelmon.mob.vulpix"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/038_ninetales/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/038_ninetales/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/037_vulpix/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/037_vulpix/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },
             {
               "name": "strike",
-              "texture": "pixelmon:pokemon/038_ninetales/all/base/strike/texture.png",
-              "sprite": "pixelmon:pokemon/038_ninetales/all/base/strike/sprite.png",
+              "texture": "pixelmon:pokemon/037_vulpix/all/base/strike/texture.png",
+              "emissive": "pixelmon:pokemon/037_vulpix/all/base/strike/emissive.png",
+              "sprite": "pixelmon:pokemon/037_vulpix/all/base/strike/sprite.png",
               "particle": ""
             }
           ]
@@ -444,9 +450,7 @@
       "types": [
         "FIRE"
       ],
-      "preEvolutions": [
-        "Vulpix"
-      ],
+      "preEvolutions": [],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -455,12 +459,20 @@
         "canGigantamax": false
       },
       "eggCycles": 21,
-      "weight": 19.9,
-      "catchRate": 75,
+      "weight": 9.9,
+      "catchRate": 190,
       "malePercentage": 25,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:fire_stone"
+          },
+          "to": "Ninetales form:base",
+          "conditions": [],
+          "evoType": "interact"
+        }
+      ],
       "evYields": {
-        "specialDefense": 1,
         "speed": 1
       }
     },
@@ -471,30 +483,96 @@
           {
             "level": 0,
             "attacks": [
-              "Aurora Beam",
-              "Aurora Veil",
-              "Blizzard",
-              "Confuse Ray",
-              "Dazzling Gleam",
-              "Disable",
-              "Extrasensory",
-              "Grudge",
-              "Ice Beam",
-              "Ice Shard",
-              "Icy Wind",
-              "Imprison",
-              "Mist",
-              "Nasty Plot",
               "Powder Snow",
-              "Sheer Cold",
-              "Spite",
               "Tail Whip"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Disable"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Ice Shard"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Spite"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Icy Wind"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Confuse Ray"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Aurora Beam"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Extrasensory"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Ice Beam"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Imprison"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Mist"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Aurora Veil"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Sheer Cold"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Grudge"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Blizzard"
             ]
           }
         ],
-        "tutorMoves": [
-          "Triple Axel"
-        ],
+        "tutorMoves": [],
         "eggMoves": [
           "Baby-Doll Eyes",
           "Flail",
@@ -505,9 +583,6 @@
           "Roar"
         ],
         "tmMoves8": [
-          "Hyper Beam",
-          "Giga Impact",
-          "Solar Beam",
           "Dig",
           "Safeguard",
           "Rest",
@@ -522,16 +597,12 @@
           "Swift",
           "Imprison",
           "Weather Ball",
-          "Fake Tears",
           "Payback",
           "Power Swap",
-          "Avalanche",
-          "Wonder Room",
           "Round",
           "Hex",
           "Tail Slap",
-          "Draining Kiss",
-          "Misty Terrain"
+          "Draining Kiss"
         ],
         "trMoves": [
           "Body Slam",
@@ -539,35 +610,28 @@
           "Blizzard",
           "Agility",
           "Substitute",
-          "Psyshock",
           "Endure",
           "Sleep Talk",
           "Encore",
           "Iron Tail",
-          "Calm Mind",
           "Dark Pulse",
-          "Nasty Plot",
           "Zen Headbutt",
-          "Foul Play",
-          "Stored Power",
-          "Dazzling Gleam"
+          "Foul Play"
         ],
         "hmMoves": [],
         "transferMoves": [
           "Aqua Tail",
           "Captivate",
-          "Celebrate",
           "Confide",
           "Covet",
+          "Dazzling Gleam",
           "Double Team",
-          "Dream Eater",
           "Feint Attack",
           "Frost Breath",
           "Frustration",
           "Headbutt",
           "Heal Bell",
           "Hidden Power",
-          "Laser Focus",
           "Pain Split",
           "Psych Up",
           "Reflect",
@@ -579,15 +643,12 @@
           "Toxic"
         ],
         "tmMoves7": [
-          "Psyshock",
-          "Calm Mind",
           "Roar",
           "Toxic",
           "Hail",
           "Hidden Power",
           "Ice Beam",
           "Blizzard",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Safeguard",
@@ -599,16 +660,13 @@
           "Attract",
           "Round",
           "Payback",
-          "Giga Impact",
           "Aurora Veil",
           "Psych Up",
           "Frost Breath",
-          "Dream Eater",
           "Swagger",
           "Sleep Talk",
           "Substitute",
           "Dark Pulse",
-          "Dazzling Gleam",
           "Confide"
         ],
         "tmMoves6": [],
@@ -628,19 +686,15 @@
         ]
       },
       "battleStats": {
-        "hp": 83,
-        "attack": 67,
-        "defense": 75,
-        "specialAttack": 91,
-        "specialDefense": 140,
-        "speed": 109
+        "hp": 48,
+        "attack": 41,
+        "defense": 60,
+        "specialAttack": 50,
+        "specialDefense": 75,
+        "speed": 65
       },
       "types": [
-        "ICE",
-        "FAIRY"
-      ],
-      "preEvolutions": [
-        "Vulpix"
+        "ICE"
       ],
       "weight": 3.8,
       "genderProperties": [
@@ -649,22 +703,35 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/038_ninetales/all/alolan/none/texture.png",
-              "sprite": "pixelmon:pokemon/038_ninetales/all/alolan/none/sprite.png",
+              "texture": "pixelmon:pokemon/037_vulpix/all/alolan/none/texture.png",
+              "sprite": "pixelmon:pokemon/037_vulpix/all/alolan/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/038_ninetales/all/alolan/none/model.pqc"
+                  "pixelmon:pokemon/037_vulpix/all/alolan/none/model.pqc"
                 ]
               }
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/038_ninetales/all/alolan/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/038_ninetales/all/alolan/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/037_vulpix/all/alolan/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/037_vulpix/all/alolan/shiny/sprite.png",
               "particle": "arcanery:shiny"
             }
+          ]
+        }
+      ],
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:ice_stone"
+          },
+          "to": "Ninetales form:alolan",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Dazzling Gleam"
           ]
         }
       ]
