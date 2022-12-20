@@ -155,6 +155,11 @@ Moves: Extreme Speed (Egg), Sucker Punch (Egg)
 HP 60 -> 80
 Abilities: Moxie
 
+087 Dewgong
+HP 90 -> 110, DEF 80 -> 110, SPD 95 -> 125
+Abilities: Hydration -> Dazzling
+Moves: Slack Off (Egg), Trick Room (TM), Wide Guard (Egg), Yawn (Egg)
+
 088 Grimer
 Abilities: Stench -> Gooey
 

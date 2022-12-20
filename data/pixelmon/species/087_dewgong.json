@@ -146,12 +146,14 @@
           "Lick",
           "Perish Song",
           "Signal Beam",
+          "Slack Off",
           "Slam",
           "Sleep Talk",
           "Spit Up",
           "Stockpile",
           "Swallow",
-          "Water Pulse"
+          "Water Pulse",
+          "Yawn"
         ],
         "tmMoves8": [],
         "trMoves": [],
@@ -200,8 +202,10 @@
           "Swagger",
           "Sleep Talk",
           "Substitute",
+          "Trick Room",
           "Surf",
           "Waterfall",
+          "Wide Guard",
           "Confide"
         ],
         "tmMoves6": [
@@ -229,6 +233,7 @@
           "Swagger",
           "Sleep Talk",
           "Substitute",
+          "Trick Room",
           "Secret Power",
           "Confide"
         ],
@@ -255,7 +260,8 @@
           "Giga Impact",
           "Frost Breath",
           "Swagger",
-          "Substitute"
+          "Substitute",
+          "Trick Room"
         ],
         "tmMoves4": [
           "Water Pulse",
@@ -285,7 +291,8 @@
           "Sleep Talk",
           "Natural Gift",
           "Swagger",
-          "Substitute"
+          "Substitute",
+          "Trick Room"
         ],
         "tmMoves3": [
           "Water Pulse",
@@ -352,7 +359,7 @@
       "abilities": {
         "abilities": [
           "ThickFat",
-          "Hydration"
+          "Dazzling"
         ],
         "hiddenAbilities": [
           "IceBody"
@@ -398,12 +405,12 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 90,
-        "attack": 90,
-        "defense": 60,
-        "specialAttack": 95,
-        "specialDefense": 95,
-        "speed": 90
+        "hp": 110,
+        "attack": 70,
+        "defense": 110,
+        "specialAttack": 70,
+        "specialDefense": 125,
+        "speed": 70
       },
       "tags": [],
       "spawn": {
