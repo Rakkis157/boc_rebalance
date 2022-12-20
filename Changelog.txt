@@ -60,5 +60,23 @@ Moves: Dragon Rush (Egg)
 HP 60 -> 85, DEF 69 -> 84, SPA 65 -> 50, SPD 79 -> 94
 Moves: Dragon Rush (Egg)
 
+025 Pikachu
+SPA 50 -> 80, SPE 90 -> 120
+Moves: Aura Sphere (TR)
+
+026 Raichu
+ATK 90 -> 100
+Moves: Aura Sphere (TR)
+
+026 Raichu-Alola
+ATK 85 -> 90, SPA 95 -> 100
+Moves: Aura Sphere (TR)
+
+125 Electabuzz
+Moves: Volt Tackle (Elekid)
+
+172 Pichu
+
+
 239 Elekid
-Moves: Volt Tackle (Level 50)
+Moves: Volt Tackle (Level 48)
