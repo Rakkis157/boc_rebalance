@@ -1,217 +1,248 @@
 {
-  "name": "Pidgeotto",
-  "dex": 17,
+  "name": "Ekans",
+  "dex": 23,
   "defaultForms": [
     ""
   ],
   "forms": [
     {
       "name": "",
-      "experienceGroup": "MEDIUM_SLOW",
+      "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 0.9,
-        "width": 0.7,
+        "height": 0.3,
+        "width": 1.0,
         "length": 1,
-        "eyeHeight": 0.9,
-        "hoverHeight": 0.9
+        "eyeHeight": 0.3,
+        "hoverHeight": 0.3
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Gust",
-              "Sand Attack",
-              "Tackle"
+              "Leer",
+              "Wrap"
             ]
           },
           {
-            "level": 5,
+            "level": 4,
             "attacks": [
-              "Sand Attack"
+              "Poison Sting"
             ]
           },
           {
             "level": 9,
             "attacks": [
-              "Gust"
+              "Bite"
             ]
           },
           {
-            "level": 13,
+            "level": 12,
             "attacks": [
-              "Quick Attack"
+              "Glare"
             ]
           },
           {
             "level": 17,
             "attacks": [
-              "Whirlwind"
+              "Screech"
             ]
           },
           {
-            "level": 22,
+            "level": 20,
             "attacks": [
-              "Twister"
+              "Acid"
             ]
           },
           {
-            "level": 27,
+            "level": 25,
             "attacks": [
-              "Feather Dance"
+              "Spit Up",
+              "Stockpile",
+              "Swallow"
             ]
           },
           {
-            "level": 32,
+            "level": 28,
             "attacks": [
-              "Agility"
+              "Acid Spray"
             ]
           },
           {
-            "level": 37,
+            "level": 33,
             "attacks": [
-              "Wing Attack"
+              "Mud Bomb"
             ]
           },
           {
-            "level": 42,
+            "level": 36,
             "attacks": [
-              "Roost"
+              "Gastro Acid"
             ]
           },
           {
-            "level": 47,
+            "level": 38,
             "attacks": [
-              "Tailwind"
+              "Belch"
             ]
           },
           {
-            "level": 52,
+            "level": 41,
             "attacks": [
-              "Mirror Move"
+              "Haze"
             ]
           },
           {
-            "level": 57,
+            "level": 44,
             "attacks": [
-              "Air Slash"
+              "Coil"
             ]
           },
           {
-            "level": 62,
+            "level": 49,
             "attacks": [
-              "Hurricane"
+              "Gunk Shot"
             ]
           }
         ],
         "tutorMoves": [
-          "Defog",
-          "Heat Wave",
-          "Sky Attack",
+          "Aqua Tail",
+          "Bind",
+          "Gastro Acid",
+          "Giga Drain",
+          "Gunk Shot",
+          "Iron Tail",
+          "Seed Bomb",
+          "Snatch",
           "Snore",
-          "Tailwind",
-          "Uproar"
+          "Spite"
         ],
         "eggMoves": [
-          "Air Cutter",
-          "Air Slash",
-          "Brave Bird",
-          "Defog",
-          "Feint Attack",
-          "Foresight",
+          "Beat Up",
+          "Disable",
+          "Dragon Rush",
+          "Iron Tail",
+          "Poison Fang",
+          "Poison Tail",
           "Pursuit",
-          "Steel Wing",
-          "Uproar"
+          "Scary Face",
+          "Slam",
+          "Snatch",
+          "Spite",
+          "Sucker Punch",
+          "Switcheroo"
         ],
         "tmMoves8": [],
         "trMoves": [],
         "hmMoves": [],
         "transferMoves": [
           "Bide",
+          "Body Slam",
           "Captivate",
+          "Crunch",
           "Curse",
-          "Detect",
           "Double-Edge",
           "Endure",
+          "Fissure",
           "Mimic",
-          "Mud-Slap",
           "Natural Gift",
-          "Ominous Wind",
-          "Pluck",
           "Rage",
-          "Refresh",
           "Secret Power",
-          "Swift",
+          "Skull Bash",
+          "Strength",
           "Take Down"
         ],
         "tmMoves7": [
-          "Work Up",
           "Toxic",
+          "Venoshock",
           "Hidden Power",
           "Sunny Day",
           "Protect",
           "Rain Dance",
-          "Roost",
           "Frustration",
+          "Earthquake",
           "Return",
           "Double Team",
-          "Aerial Ace",
+          "Sludge Wave",
+          "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
           "Round",
-          "Steel Wing",
-          "Fly",
+          "Brutal Swing",
+          "Payback",
+          "Bulldoze",
+          "Rock Slide",
+          "Infestation",
+          "Poison Jab",
           "Swagger",
           "Sleep Talk",
-          "U-turn",
           "Substitute",
+          "Dark Pulse",
           "Confide"
         ],
         "tmMoves6": [
           "Toxic",
+          "Venoshock",
           "Hidden Power",
           "Sunny Day",
           "Protect",
           "Rain Dance",
-          "Roost",
           "Frustration",
+          "Earthquake",
           "Return",
+          "Dig",
           "Double Team",
-          "Aerial Ace",
+          "Sludge Wave",
+          "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
           "Round",
-          "Steel Wing",
+          "Payback",
+          "Bulldoze",
+          "Rock Slide",
+          "Infestation",
+          "Poison Jab",
           "Swagger",
           "Sleep Talk",
-          "U-turn",
           "Substitute",
           "Secret Power",
+          "Dark Pulse",
           "Confide"
         ],
         "tmMoves5": [
           "Toxic",
+          "Venoshock",
           "Hidden Power",
           "Sunny Day",
           "Protect",
           "Rain Dance",
           "Frustration",
+          "Earthquake",
           "Return",
+          "Dig",
           "Double Team",
-          "Aerial Ace",
+          "Sludge Wave",
+          "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
           "Round",
-          "Work Up",
+          "Payback",
+          "Bulldoze",
+          "Rock Slide",
+          "Poison Jab",
           "Swagger",
-          "Pluck",
-          "U-turn",
           "Substitute"
         ],
         "tmMoves4": [
@@ -220,24 +251,31 @@
           "Sunny Day",
           "Protect",
           "Rain Dance",
+          "Giga Drain",
           "Frustration",
+          "Iron Tail",
+          "Earthquake",
           "Return",
+          "Dig",
           "Double Team",
-          "Aerial Ace",
+          "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
           "Thief",
-          "Steel Wing",
-          "Roost",
+          "Snatch",
           "Endure",
+          "Payback",
           "Captivate",
+          "Dark Pulse",
+          "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
+          "Poison Jab",
           "Swagger",
-          "Pluck",
-          "U-turn",
           "Substitute"
         ],
         "tmMoves3": [
@@ -246,117 +284,100 @@
           "Sunny Day",
           "Protect",
           "Rain Dance",
+          "Giga Drain",
           "Frustration",
+          "Iron Tail",
+          "Earthquake",
           "Return",
+          "Dig",
           "Double Team",
-          "Aerial Ace",
+          "Sludge Bomb",
+          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
           "Thief",
-          "Steel Wing"
+          "Snatch"
         ],
         "tmMoves2": [
+          "Headbutt",
           "Curse",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Snore",
           "Protect",
+          "Giga Drain",
           "Endure",
           "Frustration",
+          "Earthquake",
           "Return",
-          "Mud-Slap",
+          "Dig",
           "Double Team",
           "Swagger",
           "Sleep Talk",
-          "Swift",
-          "Detect",
+          "Sludge Bomb",
           "Rest",
           "Attract",
-          "Thief",
-          "Steel Wing"
+          "Thief"
         ],
         "tmMoves1": [
-          "Razor Wind",
-          "Whirlwind",
           "Toxic",
+          "Body Slam",
           "Take Down",
           "Double-Edge",
           "Rage",
+          "Mega Drain",
+          "Earthquake",
+          "Fissure",
+          "Dig",
           "Mimic",
           "Double Team",
-          "Reflect",
           "Bide",
-          "Swift",
-          "Sky Attack",
+          "Skull Bash",
           "Rest",
+          "Rock Slide",
           "Substitute"
         ],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "KeenEye",
-          "TangledFeet"
+          "Intimidate",
+          "ShedSkin"
         ],
         "hiddenAbilities": [
-          "BigPecks"
+          "Unnerve"
         ]
       },
       "movement": {
         "rideable": false,
-        "canFly": true,
+        "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false,
-        "flyingParameters": {
-          "flyHeightMin": 0,
-          "flyHeightMax": 10,
-          "flySpeedModifier": 0.8,
-          "flyRefreshRateY": 100,
-          "flyRefreshRateXZ": 100,
-          "flyRefreshRateSpeed": 100,
-          "flightTimeMin": 0,
-          "flightTimeMax": 20,
-          "flapRate": 5,
-          "landingMaterials": "LEAVES_AND_GRASS"
-        },
-        "mountedFlyingParameters": {
-          "upperAngleLimit": 35,
-          "lowerAngleLimit": -35,
-          "maxFlySpeed": 1.8,
-          "decelerationRate": 0.25,
-          "hoverDecelerationRate": 0.09,
-          "accelerationRate": 0.08,
-          "strafeAccelerationRate": 0.9,
-          "strafeRollConversion": 30,
-          "turnRate": 1.2,
-          "pitchRate": 1.2,
-          "staysHorizontalFlying": true
-        }
+        "canRideShoulder": false
       },
       "aggression": {
-        "timid": 80,
+        "timid": 70,
         "passive": 0,
-        "aggressive": 20
+        "aggressive": 30
       },
       "battleStats": {
-        "hp": 63,
-        "attack": 50,
-        "defense": 55,
-        "specialAttack": 60,
-        "specialDefense": 50,
-        "speed": 71
+        "hp": 50,
+        "attack": 60,
+        "defense": 44,
+        "specialAttack": 40,
+        "specialDefense": 54,
+        "speed": 55
       },
       "tags": [],
       "spawn": {
-        "baseExp": 122,
+        "baseExp": 62,
         "baseFriendship": 70,
-        "spawnLevel": 16,
-        "spawnLevelRange": 20,
+        "spawnLevel": 10,
+        "spawnLevelRange": 12,
         "spawnLocations": [
-          "AIR"
+          "LAND"
         ]
       },
       "possibleGenders": [
@@ -369,53 +390,37 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/017_pidgeotto/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/017_pidgeotto/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/023_ekans/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/023_ekans/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/017_pidgeotto/all/base/none/model.pqc"
+                  "pixelmon:pokemon/023_ekans/all/base/none/model.pqc"
                 ],
-                "movementThreshold": 0.02
-              },
-              "flyingModelLocator": {
-                "factoryType": "NORMAL",
-                "pqc": [
-                  "pixelmon:pokemon/017_pidgeotto/all/base/none/flying/model.pqc"
-                ],
-                "animationIncrement": 1.5,
-                "movementThreshold": 0.02
+                "movementThreshold": 0.05
               },
               "sounds": [
-                "pixelmon.mob.pidgeotto"
+                "pixelmon.mob.ekans"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/017_pidgeotto/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/017_pidgeotto/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/023_ekans/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/023_ekans/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
-            },
-            {
-              "name": "pink",
-              "texture": "pixelmon:pokemon/017_pidgeotto/all/base/pink/texture.png",
-              "sprite": "pixelmon:pokemon/017_pidgeotto/all/base/pink/sprite.png",
-              "particle": ""
             }
           ]
         }
       ],
       "eggGroups": [
-        "FLYING"
+        "FIELD",
+        "DRAGON"
       ],
       "types": [
-        "NORMAL",
-        "FLYING"
+        "POISON"
       ],
-      "preEvolutions": [
-        "Pidgey"
-      ],
+      "preEvolutions": [],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -423,20 +428,23 @@
         "canHaveFactor": false,
         "canGigantamax": false
       },
-      "eggCycles": 16,
-      "weight": 30.0,
-      "catchRate": 120,
+      "eggCycles": 21,
+      "weight": 6.9,
+      "catchRate": 255,
       "malePercentage": 50,
       "evolutions": [
         {
-          "level": 36,
-          "to": "Pidgeot",
+          "level": 22,
+          "to": "Arbok",
           "conditions": [],
-          "evoType": "leveling"
+          "evoType": "leveling",
+          "moves": [
+            "Crunch"
+          ]
         }
       ],
       "evYields": {
-        "speed": 2
+        "attack": 1
       }
     }
   ],

@@ -685,7 +685,7 @@
       "abilities": {
         "abilities": [
           "Gluttony",
-          "StrongJaw"
+          "Hustle"
         ],
         "hiddenAbilities": [
           "ThickFat"
@@ -693,10 +693,10 @@
       },
       "battleStats": {
         "hp": 75,
-        "attack": 86,
-        "defense": 80,
-        "specialAttack": 40,
-        "specialDefense": 80,
+        "attack": 71,
+        "defense": 90,
+        "specialAttack": 30,
+        "specialDefense": 95,
         "speed": 77
       },
       "types": [

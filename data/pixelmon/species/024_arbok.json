@@ -128,6 +128,7 @@
         "eggMoves": [
           "Beat Up",
           "Disable",
+          "Dragon Rush",
           "Iron Tail",
           "Poison Fang",
           "Poison Tail",
@@ -396,11 +397,11 @@
         "aggressive": 40
       },
       "battleStats": {
-        "hp": 80,
-        "attack": 105,
-        "defense": 79,
-        "specialAttack": 65,
-        "specialDefense": 79,
+        "hp": 85,
+        "attack": 95,
+        "defense": 84,
+        "specialAttack": 50,
+        "specialDefense": 94,
         "speed": 80
       },
       "tags": [],

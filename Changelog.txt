@@ -21,14 +21,12 @@ ATK 90 -> 100, SPE 75 -> 95
 015 Beedrill-Mega
 DEF 40 -> 50, SPD 80 -> 100
 
-016 Pidgey
-ATK 45 -> 35, SPA 35 -> 45
-
-017 Pidgeotto
-ATK 60 -> 50, SPA 50 -> 60
-
 018 Pidgeot
-ATK 80 -> 70, SPA 70 -> 95
+ATK 80 -> 90, SPE 101 -> 106
+Moves: Focus Blast (TM)
+
+018 Pidgeot-Mega
+SPA 135 -> 145, SPE 121 -> 126
 Moves: Focus Blast (TM)
 
 019 Rattata
@@ -39,7 +37,28 @@ Moves: Fire Fang (Egg, Tutor), Ice Fang (Egg, Tutor), Thunder Fang (Egg, Tutor)
 
 020 Raticate
 ATK 81 -> 101, SPE 97 -> 102
+Abilities: Run Away -> Strong Jaw
 Moves: Extreme Speed (Level 49), Fire Fang (Egg, Tutor), Ice Fang (Egg, Tutor), Thunder Fang (Egg, Tutor)
+
+020 Raticate-Alola
+DEF 70 -> 90, SPA 40 -> 30, SPD 80 -> 95
+Moves: Extreme Speed (Level 49), Fire Fang (Egg, Tutor), Ice Fang (Egg, Tutor), Thunder Fang (Egg, Tutor)
+
+021 Spearow
+HP 40 -> 45, DEF 30 -> 35 SPA 31 -> 21
+Abilities: Big Pecks
+
+022 Fearow
+HP 65 -> 80, ATK 90 -> 110, SPA 61 -> 26
+Abilities: Intimidate
+
+023 Ekans
+HP 35 -> 50
+Moves: Dragon Rush (Egg)
+
+024 Arbok
+HP 60 -> 85, DEF 69 -> 84, SPA 65 -> 50, SPD 79 -> 94
+Moves: Dragon Rush (Egg)
 
 239 Elekid
 Moves: Volt Tackle (Level 50)

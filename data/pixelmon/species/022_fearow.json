@@ -311,7 +311,8 @@
       },
       "abilities": {
         "abilities": [
-          "KeenEye"
+          "KeenEye",
+          "Intimidate"
         ],
         "hiddenAbilities": [
           "Sniper"
@@ -366,11 +367,11 @@
         "aggressive": 40
       },
       "battleStats": {
-        "hp": 65,
+        "hp": 80,
         "attack": 110,
-        "defense": 75,
-        "specialAttack": 61,
-        "specialDefense": 71,
+        "defense": 65,
+        "specialAttack": 26,
+        "specialDefense": 61,
         "speed": 100
       },
       "tags": [],
