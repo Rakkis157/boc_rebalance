@@ -21,6 +21,7 @@
             "level": 0,
             "attacks": [
               "Gust",
+              "Heal Bell",
               "Mist"
             ]
           },
@@ -385,7 +386,7 @@
           "Pressure"
         ],
         "hiddenAbilities": [
-          "SnowCloak"
+          "SnowWarning"
         ]
       },
       "movement": {

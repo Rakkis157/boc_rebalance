@@ -22,6 +22,7 @@
             "attacks": [
               "Hammer Arm",
               "Harden",
+              "Ice Hammer",
               "Leer",
               "Metal Claw",
               "Water Gun",
@@ -416,8 +417,8 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 80,
-        "attack": 130,
+        "hp": 73,
+        "attack": 140,
         "defense": 115,
         "specialAttack": 50,
         "specialDefense": 50,

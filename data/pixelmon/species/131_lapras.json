@@ -110,6 +110,7 @@
           "Fissure",
           "Freeze-Dry",
           "Horn Drill",
+          "Recover",
           "Sparkling Aria",
           "Tickle"
         ],
@@ -459,9 +460,9 @@
       "battleStats": {
         "hp": 130,
         "attack": 85,
-        "defense": 80,
-        "specialAttack": 95,
-        "specialDefense": 95,
+        "defense": 95,
+        "specialAttack": 85,
+        "specialDefense": 110,
         "speed": 60
       },
       "tags": [],

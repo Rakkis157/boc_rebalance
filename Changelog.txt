@@ -155,11 +155,71 @@ Moves: Extreme Speed (Egg), Sucker Punch (Egg)
 HP 60 -> 80
 Abilities: Moxie
 
+088 Grimer
+Abilities: Stench -> Gooey
 
+089 Muk
+ATK 105 -> 115, DEF 75 -> 100, SPA 65 -> 43
+Abilities: Stench -> Gooey
+Moves: Body Press (Level 48)
+
+089 Muk-Alola
+ATK 105 -> 125, DEF 75 -> 85, SPA 65 -> 48
+Moves: Body Press (Level 48)
+
+097 Hypno
+HP 85 -> 95, SPA 73 -> 115
+
+099 Kingler
+HP 60 -> 73, ATK 130 -> 140
+Moves: Ice Hammer (Level 0)
+
+105 Marowak
+HP 60 -> 75
+Moves: Shadow Sneak (Level 0), Payback (TM)
+
+105 Marowak-Alola
+HP 60 -> 75
+Moves: Shadow Sneak (Level 0), Payback (TM)
+
+106 Hitmonlee
+HP 50 -> 80
+
+107 Hitmonchan
+HP 50 -> 80
+
+119 Seaking
+ATK 92 -> 128, SPA 65 -> 45, SPE 68 -> 98
+
+122 Mr. Mime
+ATK 45 -> 25, SPA 100 -> 120
+
+124 Jynx
+SPE 95 -> 115
 
 125 Electabuzz
 Moves: Volt Tackle (Elekid)
 
+128 Tauros
+ATK 100 -> 120
+Moves: Bulk Up (TR, TM),
+
+132 Lapras
+DEF 80 -> 95, SPD 95 -> 110
+Moves: Recover (Egg)
+
+136 Flareon
+HP 65 -> 95, SPA 95 -> 65, SPD 110 -> 65, SPE 65 -> 110
+
+139 Omastar
+HP 70 -> 90, ATK 60 -> 40, SPD 70 -> 90
+
+141 Kabutops
+ATK 115 -> 155, SPA 65 -> 45
+
+144 Articuno
+ATK 85 -> 65, SPA 95 -> 115
+Abilities: Snow Cloak -> Snow Warning
 
 239 Elekid
 Moves: Volt Tackle (Level 48)

@@ -1,6 +1,6 @@
 {
-  "name": "Muk",
-  "dex": 89,
+  "name": "Grimer",
+  "dex": 88,
   "defaultForms": [
     ""
   ],
@@ -9,22 +9,19 @@
       "name": "",
       "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 1.2,
-        "width": 1.4,
+        "height": 1.0,
+        "width": 1.1,
         "length": 1,
-        "eyeHeight": 1.2,
-        "hoverHeight": 1.2
+        "eyeHeight": 1.0,
+        "hoverHeight": 1.0
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Harden",
-              "Mud-Slap",
               "Poison Gas",
-              "Pound",
-              "Venom Drench"
+              "Pound"
             ]
           },
           {
@@ -94,34 +91,26 @@
             ]
           },
           {
-            "level": 44,
+            "level": 43,
             "attacks": [
               "Acid Armor"
             ]
           },
           {
-            "level": 48,
-            "attacks": [
-              "Body Press"
-            ]
-          },
-          {
-            "level": 52,
+            "level": 46,
             "attacks": [
               "Belch"
             ]
           },
           {
-            "level": 57,
+            "level": 48,
             "attacks": [
               "Memento"
             ]
           }
         ],
         "tutorMoves": [
-          "Block",
           "Fire Punch",
-          "Focus Punch",
           "Giga Drain",
           "Gunk Shot",
           "Ice Punch",
@@ -154,11 +143,11 @@
           "Captivate",
           "Dynamic Punch",
           "Endure",
+          "Helping Hand",
           "Incinerate",
           "Mimic",
           "Natural Gift",
           "Rage",
-          "Rock Smash",
           "Secret Power",
           "Strength",
           "Zap Cannon"
@@ -169,7 +158,6 @@
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -177,7 +165,6 @@
           "Thunder",
           "Return",
           "Shadow Ball",
-          "Brick Break",
           "Double Team",
           "Sludge Wave",
           "Flamethrower",
@@ -190,18 +177,15 @@
           "Attract",
           "Thief",
           "Round",
-          "Focus Blast",
           "Fling",
           "Explosion",
           "Payback",
-          "Giga Impact",
           "Rock Slide",
           "Infestation",
           "Poison Jab",
           "Swagger",
           "Sleep Talk",
           "Substitute",
-          "Dark Pulse",
           "Confide"
         ],
         "tmMoves6": [
@@ -210,7 +194,6 @@
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -219,7 +202,6 @@
           "Return",
           "Dig",
           "Shadow Ball",
-          "Brick Break",
           "Double Team",
           "Sludge Wave",
           "Flamethrower",
@@ -232,12 +214,10 @@
           "Attract",
           "Thief",
           "Round",
-          "Focus Blast",
           "Fling",
           "Incinerate",
           "Explosion",
           "Payback",
-          "Giga Impact",
           "Rock Slide",
           "Infestation",
           "Poison Jab",
@@ -245,7 +225,6 @@
           "Sleep Talk",
           "Substitute",
           "Secret Power",
-          "Dark Pulse",
           "Power-Up Punch",
           "Confide"
         ],
@@ -255,7 +234,6 @@
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -264,7 +242,6 @@
           "Return",
           "Dig",
           "Shadow Ball",
-          "Brick Break",
           "Double Team",
           "Sludge Wave",
           "Flamethrower",
@@ -277,25 +254,20 @@
           "Attract",
           "Thief",
           "Round",
-          "Focus Blast",
           "Fling",
           "Incinerate",
           "Explosion",
           "Payback",
-          "Giga Impact",
           "Rock Slide",
           "Poison Jab",
           "Swagger",
-          "Substitute",
-          "Rock Smash"
+          "Substitute"
         ],
         "tmMoves4": [
-          "Focus Punch",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Giga Drain",
@@ -305,7 +277,6 @@
           "Return",
           "Dig",
           "Shadow Ball",
-          "Brick Break",
           "Double Team",
           "Shock Wave",
           "Flamethrower",
@@ -318,14 +289,11 @@
           "Rest",
           "Attract",
           "Thief",
-          "Focus Blast",
           "Fling",
           "Endure",
           "Explosion",
           "Payback",
-          "Giga Impact",
           "Captivate",
-          "Dark Pulse",
           "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
@@ -334,12 +302,10 @@
           "Substitute"
         ],
         "tmMoves3": [
-          "Focus Punch",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Giga Drain",
@@ -348,7 +314,6 @@
           "Thunder",
           "Return",
           "Dig",
-          "Brick Break",
           "Double Team",
           "Shock Wave",
           "Flamethrower",
@@ -370,7 +335,6 @@
           "Hidden Power",
           "Sunny Day",
           "Snore",
-          "Hyper Beam",
           "Protect",
           "Giga Drain",
           "Endure",
@@ -393,7 +357,6 @@
         "tmMoves1": [
           "Toxic",
           "Body Slam",
-          "Hyper Beam",
           "Rage",
           "Mega Drain",
           "Thunderbolt",
@@ -419,22 +382,10 @@
         ]
       },
       "movement": {
-        "rideable": true,
+        "rideable": false,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false,
-        "ridingOffsets": {
-          "standing": {
-            "x": 0.0,
-            "y": -0.45,
-            "z": -0.3
-          },
-          "moving": {
-            "x": 0.0,
-            "y": -0.45,
-            "z": -0.3
-          }
-        }
+        "canRideShoulder": false
       },
       "aggression": {
         "timid": 80,
@@ -442,19 +393,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 105,
-        "attack": 125,
-        "defense": 75,
-        "specialAttack": 65,
-        "specialDefense": 100,
-        "speed": 50
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "specialAttack": 40,
+        "specialDefense": 50,
+        "speed": 25
       },
       "tags": [],
       "spawn": {
-        "baseExp": 157,
+        "baseExp": 90,
         "baseFriendship": 70,
-        "spawnLevel": 38,
-        "spawnLevelRange": 12,
+        "spawnLevel": 10,
+        "spawnLevelRange": 28,
         "spawnLocations": [
           "LAND"
         ]
@@ -469,24 +420,25 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/089_muk/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/089_muk/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/088_grimer/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/088_grimer/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/089_muk/all/base/none/model.pqc"
+                  "pixelmon:pokemon/088_grimer/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.muk",
-                "pixelmon.mob.muk"
+                "pixelmon.mob.grimer",
+                "pixelmon.mob.grimer",
+                "pixelmon.mob.grimer"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/089_muk/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/089_muk/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/088_grimer/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/088_grimer/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             }
           ]
@@ -498,9 +450,7 @@
       "types": [
         "POISON"
       ],
-      "preEvolutions": [
-        "Grimer"
-      ],
+      "preEvolutions": [],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -510,12 +460,21 @@
       },
       "eggCycles": 21,
       "weight": 30.0,
-      "catchRate": 75,
+      "catchRate": 190,
       "malePercentage": 50,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "level": 38,
+          "to": "Muk form:base",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Venom Drench"
+          ]
+        }
+      ],
       "evYields": {
-        "hp": 1,
-        "attack": 1
+        "hp": 1
       }
     },
     {
@@ -525,11 +484,8 @@
           {
             "level": 0,
             "attacks": [
-              "Bite",
-              "Harden",
               "Poison Gas",
-              "Pound",
-              "Venom Drench"
+              "Pound"
             ]
           },
           {
@@ -599,41 +555,32 @@
             ]
           },
           {
-            "level": 44,
+            "level": 43,
             "attacks": [
               "Acid Armor"
             ]
           },
           {
-            "level": 48,
-            "attacks": [
-              "Body Press"
-            ]
-          },
-          {
-            "level": 52,
+            "level": 46,
             "attacks": [
               "Belch"
             ]
           },
           {
-            "level": 57,
+            "level": 48,
             "attacks": [
               "Memento"
             ]
           }
         ],
         "tutorMoves": [
-          "Block",
           "Fire Punch",
-          "Focus Punch",
           "Gastro Acid",
           "Giga Drain",
           "Gunk Shot",
           "Ice Punch",
           "Knock Off",
           "Pain Split",
-          "Recycle",
           "Shock Wave",
           "Snore",
           "Spite",
@@ -664,13 +611,11 @@
           "Hidden Power",
           "Sunny Day",
           "Taunt",
-          "Hyper Beam",
           "Protect",
           "Rain Dance",
           "Frustration",
           "Return",
           "Shadow Ball",
-          "Brick Break",
           "Double Team",
           "Sludge Wave",
           "Flamethrower",
@@ -683,14 +628,12 @@
           "Attract",
           "Thief",
           "Round",
-          "Focus Blast",
           "Fling",
           "Brutal Swing",
           "Quash",
           "Embargo",
           "Explosion",
           "Payback",
-          "Giga Impact",
           "Rock Polish",
           "Stone Edge",
           "Rock Slide",
@@ -700,7 +643,6 @@
           "Sleep Talk",
           "Substitute",
           "Snarl",
-          "Dark Pulse",
           "Confide"
         ],
         "tmMoves6": [],
@@ -720,14 +662,6 @@
           "PowerOfAlchemy"
         ]
       },
-      "battleStats": {
-        "hp": 105,
-        "attack": 125,
-        "defense": 85,
-        "specialAttack": 48,
-        "specialDefense": 100,
-        "speed": 50
-      },
       "types": [
         "POISON",
         "DARK"
@@ -738,22 +672,33 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/089_muk/all/alolan/none/texture.png",
-              "sprite": "pixelmon:pokemon/089_muk/all/alolan/none/sprite.png",
+              "texture": "pixelmon:pokemon/088_grimer/all/alolan/none/texture.png",
+              "sprite": "pixelmon:pokemon/088_grimer/all/alolan/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/089_muk/all/alolan/none/model.pqc"
+                  "pixelmon:pokemon/088_grimer/all/alolan/none/model.pqc"
                 ]
               }
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/089_muk/all/alolan/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/089_muk/all/alolan/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/088_grimer/all/alolan/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/088_grimer/all/alolan/shiny/sprite.png",
               "particle": "arcanery:shiny"
             }
+          ]
+        }
+      ],
+      "evolutions": [
+        {
+          "level": 38,
+          "to": "Muk form:alolan",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Venom Drench"
           ]
         }
       ]
