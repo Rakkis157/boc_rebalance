@@ -1,0 +1,14 @@
+Changelog
+
+Moves:
+
+Slam:
+Base Power raised to 90.
+No longer hits adjcent allies.
+Now hits adjcent foes.
+
+
+Pokemon:
+
+
+
