@@ -363,11 +363,11 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 70,
+        "hp": 90,
         "attack": 100,
-        "defense": 70,
+        "defense": 80,
         "specialAttack": 105,
-        "specialDefense": 75,
+        "specialDefense": 85,
         "speed": 40
       },
       "tags": [],
@@ -457,11 +457,11 @@
         ]
       },
       "battleStats": {
-        "hp": 70,
+        "hp": 90,
         "attack": 120,
-        "defense": 100,
+        "defense": 110,
         "specialAttack": 145,
-        "specialDefense": 105,
+        "specialDefense": 115,
         "speed": 20
       },
       "weight": 320.5,

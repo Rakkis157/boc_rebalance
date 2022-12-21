@@ -508,9 +508,9 @@
         "hp": 68,
         "attack": 125,
         "defense": 65,
-        "specialAttack": 65,
+        "specialAttack": 60,
         "specialDefense": 115,
-        "speed": 80
+        "speed": 100
       },
       "tags": [],
       "spawn": {
@@ -606,8 +606,8 @@
         "attack": 165,
         "defense": 95,
         "specialAttack": 65,
-        "specialDefense": 115,
-        "speed": 110
+        "specialDefense": 125,
+        "speed": 115
       },
       "weight": 56.4,
       "genderProperties": [

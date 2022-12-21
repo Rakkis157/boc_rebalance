@@ -396,10 +396,10 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 80,
+        "hp": 100,
         "attack": 45,
         "defense": 65,
-        "specialAttack": 90,
+        "specialAttack": 100,
         "specialDefense": 110,
         "speed": 80
       },

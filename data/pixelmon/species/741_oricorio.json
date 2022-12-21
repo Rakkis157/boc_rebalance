@@ -208,9 +208,9 @@
         "hp": 75,
         "attack": 70,
         "defense": 70,
-        "specialAttack": 98,
+        "specialAttack": 108,
         "specialDefense": 70,
-        "speed": 93
+        "speed": 103
       },
       "tags": [],
       "spawn": {

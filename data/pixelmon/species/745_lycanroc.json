@@ -226,10 +226,10 @@
       },
       "battleStats": {
         "hp": 75,
-        "attack": 115,
-        "defense": 65,
+        "attack": 125,
+        "defense": 70,
         "specialAttack": 55,
-        "specialDefense": 65,
+        "specialDefense": 70,
         "speed": 112
       },
       "tags": [],
@@ -312,9 +312,9 @@
         ]
       },
       "battleStats": {
-        "hp": 85,
+        "hp": 95,
         "attack": 115,
-        "defense": 75,
+        "defense": 85,
         "specialAttack": 55,
         "specialDefense": 75,
         "speed": 82
@@ -357,10 +357,10 @@
       },
       "battleStats": {
         "hp": 75,
-        "attack": 117,
-        "defense": 65,
+        "attack": 127,
+        "defense": 70,
         "specialAttack": 55,
-        "specialDefense": 65,
+        "specialDefense": 70,
         "speed": 110
       },
       "genderProperties": [

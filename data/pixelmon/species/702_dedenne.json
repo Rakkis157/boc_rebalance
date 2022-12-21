@@ -259,8 +259,8 @@
         "hp": 67,
         "attack": 58,
         "defense": 57,
-        "specialAttack": 81,
-        "specialDefense": 67,
+        "specialAttack": 101,
+        "specialDefense": 87,
         "speed": 101
       },
       "tags": [],

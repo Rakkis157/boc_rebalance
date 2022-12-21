@@ -388,11 +388,11 @@
       },
       "battleStats": {
         "hp": 64,
-        "attack": 115,
-        "defense": 65,
-        "specialAttack": 83,
+        "attack": 125,
+        "defense": 85,
+        "specialAttack": 65,
         "specialDefense": 63,
-        "speed": 65
+        "speed": 83
       },
       "tags": [],
       "spawn": {
@@ -485,10 +485,10 @@
       "battleStats": {
         "hp": 64,
         "attack": 165,
-        "defense": 75,
-        "specialAttack": 93,
+        "defense": 95,
+        "specialAttack": 75,
         "specialDefense": 83,
-        "speed": 75
+        "speed": 103
       },
       "weight": 13.0,
       "genderProperties": [

@@ -291,10 +291,10 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 60,
+        "hp": 80,
         "attack": 59,
         "defense": 85,
-        "specialAttack": 79,
+        "specialAttack": 99,
         "specialDefense": 105,
         "speed": 36
       },
@@ -369,8 +369,8 @@
     {
       "name": "sandy",
       "battleStats": {
-        "hp": 60,
-        "attack": 79,
+        "hp": 80,
+        "attack": 99,
         "defense": 105,
         "specialAttack": 59,
         "specialDefense": 85,
@@ -414,11 +414,11 @@
     {
       "name": "trash",
       "battleStats": {
-        "hp": 60,
+        "hp": 80,
         "attack": 69,
-        "defense": 95,
+        "defense": 105,
         "specialAttack": 69,
-        "specialDefense": 95,
+        "specialDefense": 105,
         "speed": 36
       },
       "types": [

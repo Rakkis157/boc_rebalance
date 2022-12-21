@@ -375,7 +375,7 @@
         "defense": 60,
         "specialAttack": 100,
         "specialDefense": 60,
-        "speed": 65
+        "speed": 100
       },
       "tags": [],
       "spawn": {

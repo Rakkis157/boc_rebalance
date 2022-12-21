@@ -366,11 +366,11 @@
       },
       "battleStats": {
         "hp": 60,
-        "attack": 60,
+        "attack": 90,
         "defense": 60,
-        "specialAttack": 60,
+        "specialAttack": 90,
         "specialDefense": 60,
-        "speed": 60
+        "speed": 90
       },
       "tags": [],
       "spawn": {

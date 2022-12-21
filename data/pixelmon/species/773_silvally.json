@@ -259,12 +259,12 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 95,
-        "attack": 95,
-        "defense": 95,
-        "specialAttack": 95,
-        "specialDefense": 95,
-        "speed": 95
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 100
       },
       "tags": [
         "legendary"

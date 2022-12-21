@@ -382,7 +382,7 @@
         "hp": 70,
         "attack": 120,
         "defense": 40,
-        "specialAttack": 95,
+        "specialAttack": 115,
         "specialDefense": 40,
         "speed": 95
       },
@@ -470,11 +470,11 @@
       },
       "battleStats": {
         "hp": 70,
-        "attack": 140,
+        "attack": 150,
         "defense": 70,
         "specialAttack": 110,
         "specialDefense": 65,
-        "speed": 105
+        "speed": 115
       },
       "weight": 130.3,
       "genderProperties": [

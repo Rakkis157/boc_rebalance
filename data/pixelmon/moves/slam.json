@@ -3,7 +3,7 @@
   "attackName": "Slam",
   "attackType": "NORMAL",
   "attackCategory": "PHYSICAL",
-  "basePower": 90,
+  "basePower": 100,
   "ppBase": 20,
   "ppMax": 32,
   "accuracy": 75,

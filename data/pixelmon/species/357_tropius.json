@@ -361,10 +361,10 @@
       },
       "battleStats": {
         "hp": 99,
-        "attack": 68,
-        "defense": 83,
+        "attack": 88,
+        "defense": 93,
         "specialAttack": 72,
-        "specialDefense": 87,
+        "specialDefense": 97,
         "speed": 51
       },
       "tags": [],

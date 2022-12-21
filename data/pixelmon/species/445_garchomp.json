@@ -500,10 +500,10 @@
       "battleStats": {
         "hp": 108,
         "attack": 170,
-        "defense": 115,
+        "defense": 110,
         "specialAttack": 120,
-        "specialDefense": 95,
-        "speed": 92
+        "specialDefense": 90,
+        "speed": 102
       },
       "genderProperties": [
         {
