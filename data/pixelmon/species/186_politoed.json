@@ -22,6 +22,7 @@
             "attacks": [
               "Belly Drum",
               "Body Slam",
+              "Boomburst",
               "Bounce",
               "Bubble Beam",
               "Double-Edge",
@@ -352,7 +353,7 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 100,
+        "hp": 110,
         "attack": 75,
         "defense": 75,
         "specialAttack": 100,

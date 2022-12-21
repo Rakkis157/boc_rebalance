@@ -20,6 +20,7 @@
           {
             "level": 0,
             "attacks": [
+              "Boomburst",
               "Echoed Voice",
               "Growl",
               "Peck",
@@ -182,6 +183,7 @@
         ],
         "tmMoves7": [
           "Work Up",
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
@@ -213,6 +215,7 @@
           "Confide"
         ],
         "tmMoves6": [
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
@@ -244,6 +247,7 @@
           "Confide"
         ],
         "tmMoves5": [
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
@@ -272,6 +276,7 @@
           "Substitute"
         ],
         "tmMoves4": [
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
@@ -306,6 +311,7 @@
           "Substitute"
         ],
         "tmMoves3": [
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
           "Sunny Day",

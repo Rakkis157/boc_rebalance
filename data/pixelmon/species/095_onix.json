@@ -1,6 +1,6 @@
 {
-  "name": "Dunsparce",
-  "dex": 206,
+  "name": "Onix",
+  "dex": 95,
   "defaultForms": [
     ""
   ],
@@ -9,361 +9,343 @@
       "name": "",
       "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 0.8,
-        "width": 1.2,
+        "height": 4.8,
+        "width": 2.2,
         "length": 1,
-        "eyeHeight": 0.8,
-        "hoverHeight": 0.8
+        "eyeHeight": 4.8,
+        "hoverHeight": 4.8
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Defense Curl",
-              "Flail"
+              "Bind",
+              "Harden",
+              "Rock Throw",
+              "Tackle"
             ]
           },
           {
             "level": 4,
             "attacks": [
-              "Mud-Slap"
+              "Smack Down"
             ]
           },
           {
             "level": 8,
             "attacks": [
-              "Rollout"
+              "Rock Polish"
             ]
           },
           {
             "level": 12,
             "attacks": [
-              "Glare"
+              "Dragon Breath"
             ]
           },
           {
             "level": 16,
             "attacks": [
-              "Screech"
+              "Curse"
             ]
           },
           {
             "level": 20,
             "attacks": [
-              "Ancient Power"
+              "Rock Slide"
             ]
           },
           {
             "level": 24,
             "attacks": [
-              "Drill Run"
+              "Screech"
             ]
           },
           {
             "level": 28,
             "attacks": [
-              "Yawn"
+              "Sand Tomb"
             ]
           },
           {
             "level": 32,
             "attacks": [
-              "Body Slam"
+              "Stealth Rock"
             ]
           },
           {
             "level": 36,
             "attacks": [
-              "Take Down"
+              "Slam"
             ]
           },
           {
             "level": 40,
             "attacks": [
-              "Roost"
+              "Sandstorm"
             ]
           },
           {
             "level": 44,
             "attacks": [
-              "Dragon Rush"
+              "Dig"
             ]
           },
           {
             "level": 48,
             "attacks": [
-              "Coil"
+              "Iron Tail"
             ]
           },
           {
             "level": 52,
             "attacks": [
-              "Double-Edge"
+              "Stone Edge"
             ]
           },
           {
             "level": 56,
             "attacks": [
-              "Endeavor"
+              "Double-Edge"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Coil"
+            ]
+          },
+          {
+            "level": 64,
+            "attacks": [
+              "Shore Up"
             ]
           }
         ],
         "tutorMoves": [
-          "Dual Wingbeat",
-          "Scale Shot",
-          "Skitter Smack",
-          "Terrain Pulse"
+          "Meteor Beam",
+          "Scorching Sands"
         ],
         "eggMoves": [
-          "Aqua Tail",
-          "Astonish",
-          "Bite",
-          "Curse",
-          "Headbutt",
-          "Last Resort",
-          "Magic Coat"
+          "Block",
+          "Defense Curl",
+          "Dragon Tail",
+          "Flail",
+          "Head Smash",
+          "Rollout",
+          "Wide Guard"
         ],
         "tmMoves8": [
-          "Solar Beam",
-          "Thunder Wave",
           "Dig",
           "Screech",
+          "Self-Destruct",
           "Rest",
           "Rock Slide",
-          "Thief",
           "Snore",
           "Protect",
+          "Scary Face",
           "Attract",
-          "Rain Dance",
+          "Sandstorm",
           "Sunny Day",
           "Facade",
-          "Helping Hand",
           "Rock Tomb",
+          "Sand Tomb",
+          "Rock Blast",
+          "Payback",
           "Round",
-          "Hex",
-          "Retaliate",
           "Bulldoze",
-          "Air Slash",
-          "Stomping Tantrum"
+          "Brutal Swing",
+          "Stomping Tantrum",
+          "Breaking Swipe"
         ],
         "trMoves": [
           "Body Slam",
-          "Flamethrower",
-          "Ice Beam",
-          "Blizzard",
-          "Thunderbolt",
-          "Thunder",
           "Earthquake",
-          "Agility",
-          "Fire Blast",
-          "Amnesia",
           "Substitute",
           "Endure",
           "Sleep Talk",
-          "Baton Pass",
           "Iron Tail",
-          "Shadow Ball",
-          "Calm Mind",
+          "Taunt",
+          "Dragon Dance",
           "Gyro Ball",
-          "Poison Jab",
-          "Zen Headbutt",
+          "Dragon Pulse",
+          "Earth Power",
+          "Flash Cannon",
           "Iron Head",
+          "Stone Edge",
           "Stealth Rock",
-          "Stored Power",
-          "Wild Charge",
-          "Drill Run"
+          "Heavy Slam",
+          "Drill Run",
+          "High Horsepower",
+          "Body Press"
         ],
         "hmMoves": [],
         "transferMoves": [
+          "Ancient Power",
           "Bide",
-          "Bind",
           "Captivate",
-          "Charge Beam",
           "Confide",
-          "Counter",
           "Double Team",
-          "Dream Eater",
+          "Explosion",
+          "Fissure",
           "Frustration",
+          "Headbutt",
           "Hidden Power",
-          "Incinerate",
           "Mimic",
+          "Mud Sport",
+          "Mud-Slap",
           "Natural Gift",
-          "Nightmare",
-          "Pain Split",
+          "Nature Power",
           "Psych Up",
-          "Pursuit",
           "Rage",
           "Return",
+          "Roar",
+          "Rock Climb",
           "Rock Smash",
+          "Rototiller",
           "Secret Power",
-          "Shock Wave",
-          "Spite",
+          "Skull Bash",
           "Strength",
           "Swagger",
+          "Take Down",
+          "Torment",
           "Toxic",
-          "Trump Card",
-          "Water Pulse",
-          "Zap Cannon"
+          "Twister"
         ],
         "tmMoves7": [
-          "Calm Mind",
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Ice Beam",
-          "Blizzard",
+          "Taunt",
           "Protect",
-          "Rain Dance",
-          "Roost",
           "Frustration",
-          "Solar Beam",
-          "Thunderbolt",
-          "Thunder",
+          "Smack Down",
           "Earthquake",
           "Return",
-          "Shadow Ball",
           "Double Team",
-          "Flamethrower",
-          "Fire Blast",
+          "Sandstorm",
           "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
-          "Thief",
           "Round",
-          "Charge Beam",
-          "Thunder Wave",
+          "Brutal Swing",
+          "Explosion",
+          "Payback",
+          "Rock Polish",
+          "Stone Edge",
           "Gyro Ball",
           "Psych Up",
           "Bulldoze",
           "Rock Slide",
-          "Poison Jab",
-          "Dream Eater",
+          "Dragon Tail",
           "Swagger",
           "Sleep Talk",
           "Substitute",
-          "Wild Charge",
+          "Flash Cannon",
+          "Nature Power",
           "Confide"
         ],
         "tmMoves6": [
-          "Calm Mind",
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Ice Beam",
-          "Blizzard",
+          "Taunt",
           "Protect",
-          "Rain Dance",
-          "Roost",
           "Frustration",
-          "Solar Beam",
-          "Thunderbolt",
-          "Thunder",
+          "Smack Down",
           "Earthquake",
           "Return",
           "Dig",
-          "Shadow Ball",
           "Double Team",
-          "Flamethrower",
-          "Fire Blast",
+          "Sandstorm",
           "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
-          "Thief",
           "Round",
-          "Charge Beam",
-          "Incinerate",
-          "Retaliate",
-          "Thunder Wave",
+          "Explosion",
+          "Payback",
+          "Rock Polish",
+          "Stone Edge",
           "Gyro Ball",
           "Psych Up",
           "Bulldoze",
           "Rock Slide",
-          "Poison Jab",
-          "Dream Eater",
+          "Dragon Tail",
           "Swagger",
           "Sleep Talk",
           "Substitute",
-          "Wild Charge",
+          "Flash Cannon",
           "Secret Power",
+          "Nature Power",
           "Confide"
         ],
         "tmMoves5": [
-          "Calm Mind",
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Ice Beam",
-          "Blizzard",
+          "Taunt",
           "Protect",
-          "Rain Dance",
           "Frustration",
-          "Solar Beam",
-          "Thunderbolt",
-          "Thunder",
+          "Smack Down",
           "Earthquake",
           "Return",
           "Dig",
-          "Shadow Ball",
           "Double Team",
-          "Flamethrower",
-          "Fire Blast",
+          "Sandstorm",
           "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
-          "Thief",
           "Round",
-          "Charge Beam",
-          "Incinerate",
-          "Retaliate",
-          "Thunder Wave",
+          "Explosion",
+          "Payback",
+          "Rock Polish",
+          "Stone Edge",
           "Gyro Ball",
           "Psych Up",
           "Bulldoze",
           "Rock Slide",
-          "Poison Jab",
-          "Dream Eater",
+          "Dragon Tail",
           "Swagger",
           "Substitute",
-          "Wild Charge",
+          "Flash Cannon",
           "Rock Smash"
         ],
         "tmMoves4": [
-          "Water Pulse",
-          "Calm Mind",
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Ice Beam",
-          "Blizzard",
+          "Taunt",
           "Protect",
-          "Rain Dance",
           "Frustration",
-          "Solar Beam",
           "Iron Tail",
-          "Thunderbolt",
-          "Thunder",
           "Earthquake",
           "Return",
           "Dig",
-          "Shadow Ball",
           "Double Team",
-          "Shock Wave",
-          "Flamethrower",
-          "Fire Blast",
+          "Sandstorm",
           "Rock Tomb",
+          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
-          "Thief",
-          "Roost",
-          "Charge Beam",
           "Endure",
-          "Thunder Wave",
+          "Dragon Pulse",
+          "Explosion",
+          "Payback",
+          "Rock Polish",
+          "Stone Edge",
           "Gyro Ball",
           "Stealth Rock",
           "Psych Up",
@@ -371,89 +353,102 @@
           "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
-          "Poison Jab",
-          "Dream Eater",
           "Swagger",
-          "Substitute"
+          "Substitute",
+          "Flash Cannon"
         ],
         "tmMoves3": [
-          "Water Pulse",
-          "Calm Mind",
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Ice Beam",
-          "Blizzard",
+          "Taunt",
           "Protect",
-          "Rain Dance",
           "Frustration",
-          "Solar Beam",
           "Iron Tail",
-          "Thunderbolt",
-          "Thunder",
           "Earthquake",
           "Return",
           "Dig",
-          "Shadow Ball",
           "Double Team",
-          "Shock Wave",
-          "Flamethrower",
-          "Fire Blast",
+          "Sandstorm",
           "Rock Tomb",
+          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
-          "Attract",
-          "Thief"
+          "Attract"
         ],
         "tmMoves2": [
           "Headbutt",
           "Curse",
-          "Rollout",
+          "Roar",
           "Toxic",
-          "Zap Cannon",
           "Rock Smash",
-          "Psych Up",
           "Hidden Power",
           "Sunny Day",
           "Snore",
           "Protect",
-          "Rain Dance",
           "Endure",
           "Frustration",
-          "Solar Beam",
           "Iron Tail",
-          "Thunder",
+          "Earthquake",
           "Return",
           "Dig",
           "Mud-Slap",
           "Double Team",
           "Swagger",
           "Sleep Talk",
-          "Defense Curl",
-          "Dream Eater",
+          "Sandstorm",
           "Rest",
-          "Attract",
-          "Thief",
-          "Nightmare"
+          "Attract"
         ],
-        "tmMoves1": [],
+        "tmMoves1": [
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Rage",
+          "Earthquake",
+          "Fissure",
+          "Dig",
+          "Mimic",
+          "Double Team",
+          "Bide",
+          "Self-Destruct",
+          "Skull Bash",
+          "Rest",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "SereneGrace",
-          "RunAway"
+          "RockHead",
+          "Sturdy"
         ],
         "hiddenAbilities": [
-          "Rattled"
+          "WeakArmor"
         ]
       },
       "movement": {
-        "rideable": false,
+        "rideable": true,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.2,
+            "z": -1.0
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -0.3,
+            "z": 1.0
+          }
+        }
       },
       "aggression": {
         "timid": 80,
@@ -461,19 +456,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 100,
-        "attack": 70,
-        "defense": 70,
-        "specialAttack": 65,
-        "specialDefense": 65,
-        "speed": 45
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "specialAttack": 30,
+        "specialDefense": 45,
+        "speed": 70
       },
       "tags": [],
       "spawn": {
-        "baseExp": 125,
+        "baseExp": 108,
         "baseFriendship": 70,
-        "spawnLevel": 5,
-        "spawnLevelRange": 25,
+        "spawnLevel": 10,
+        "spawnLevelRange": 40,
         "spawnLocations": [
           "LAND"
         ]
@@ -488,31 +483,40 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/206_dunsparce/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/206_dunsparce/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/095_onix/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/095_onix/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/206_dunsparce/all/base/none/model.pqc"
+                  "pixelmon:pokemon/095_onix/all/base/none/model.pqc"
                 ]
               },
-              "sounds": []
+              "sounds": [
+                "pixelmon.mob.onix"
+              ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/206_dunsparce/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/206_dunsparce/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/095_onix/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/095_onix/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
+            },
+            {
+              "name": "crystal",
+              "texture": "pixelmon:pokemon/095_onix/all/base/crystal/texture.png",
+              "sprite": "pixelmon:pokemon/095_onix/all/base/crystal/sprite.png",
+              "particle": ""
             }
           ]
         }
       ],
       "eggGroups": [
-        "FIELD"
+        "MINERAL"
       ],
       "types": [
-        "NORMAL"
+        "ROCK",
+        "GROUND"
       ],
       "preEvolutions": [],
       "defaultBaseForm": "",
@@ -522,15 +526,28 @@
         "canHaveFactor": false,
         "canGigantamax": false
       },
-      "eggCycles": 21,
-      "weight": 14.0,
-      "catchRate": 190,
+      "eggCycles": 26,
+      "weight": 210.0,
+      "catchRate": 45,
       "malePercentage": 50,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "to": "Steelix",
+          "conditions": [
+            {
+              "item": {
+                "itemID": "pixelmon:metal_coat"
+              },
+              "evoConditionType": "heldItem"
+            }
+          ],
+          "evoType": "trade"
+        }
+      ],
       "evYields": {
-        "hp": 1
+        "defense": 1
       }
     }
   ],
-  "generation": 2
+  "generation": 1
 }

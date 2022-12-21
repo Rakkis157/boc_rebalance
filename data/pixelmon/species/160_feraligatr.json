@@ -397,7 +397,8 @@
       },
       "abilities": {
         "abilities": [
-          "Torrent"
+          "Torrent",
+          "StrongJaw"
         ],
         "hiddenAbilities": [
           "SheerForce"

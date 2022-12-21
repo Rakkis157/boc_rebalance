@@ -21,12 +21,14 @@
             "level": 0,
             "attacks": [
               "Bind",
+              "Coil",
               "Crunch",
               "Fire Fang",
               "Harden",
               "Ice Fang",
               "Rock Polish",
               "Rock Throw",
+              "Shore Up",
               "Tackle",
               "Thunder Fang"
             ]
@@ -119,6 +121,18 @@
             "level": 60,
             "attacks": [
               "Magnet Rise"
+            ]
+          },
+          {
+            "level": 64,
+            "attacks": [
+              "Coil"
+            ]
+          },
+          {
+            "level": 68,
+            "attacks": [
+              "Shore Up"
             ]
           }
         ],

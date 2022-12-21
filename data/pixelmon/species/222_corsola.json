@@ -21,7 +21,8 @@
             "level": 0,
             "attacks": [
               "Tackle",
-              "Harden"
+              "Harden",
+              "Spiky Shield"
             ]
           },
           {
@@ -100,7 +101,8 @@
           "Head Smash",
           "Mist",
           "Nature Power",
-          "Water Pulse"
+          "Water Pulse",
+          "Wide Guard"
         ],
         "tmMoves8": [
           "Dig",
@@ -436,12 +438,12 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 65,
-        "attack": 55,
+        "hp": 105,
+        "attack": 35,
         "defense": 95,
         "specialAttack": 65,
         "specialDefense": 95,
-        "speed": 35
+        "speed": 15
       },
       "tags": [],
       "spawn": {

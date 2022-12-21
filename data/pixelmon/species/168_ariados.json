@@ -26,6 +26,7 @@
               "Fell Stinger",
               "Focus Energy",
               "Poison Sting",
+              "Psychic Fangs",
               "String Shot",
               "Swords Dance",
               "Venom Drench"
@@ -334,7 +335,7 @@
       },
       "abilities": {
         "abilities": [
-          "Swarm",
+          "Merciless",
           "Insomnia"
         ],
         "hiddenAbilities": [

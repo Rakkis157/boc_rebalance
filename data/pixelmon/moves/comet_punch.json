@@ -1,40 +1,32 @@
 {
-  "attackIndex": 172,
-  "attackName": "Barrage",
+  "attackIndex": 64,
+  "attackName": "Comet Punch",
   "attackType": "NORMAL",
   "attackCategory": "PHYSICAL",
-  "basePower": 15,
-  "ppBase": 20,
-  "ppMax": 32,
-  "accuracy": 85,
-  "makesContact": false,
+  "basePower": 25,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
   "effects": [
     {
-      "minHits": 2,
-      "maxHits": 5,
+      "minHits": 4,
+      "maxHits": 4,
       "modifiers": [],
       "persists": false,
       "effectTypeID": "MultipleHit"
-    },
-    {
-      "type": "DEFENSE",
-      "amount": -1,
-      "isUser": false,
-      "modifiers": [],
-      "persists": false,
-      "effectTypeID": "StatsEffect"
     }
   ],
   "animations": [
     "leapForward"
   ],
   "targetingInfo": {
-    "hitsAll": true,
+    "hitsAll": false,
     "hitsOppositeFoe": true,
     "hitsAdjacentFoe": true,
     "hitsExtendedFoe": false,
     "hitsSelf": false,
-    "hitsAdjacentAlly": false,
+    "hitsAdjacentAlly": true,
     "hitsExtendedAlly": false
   },
   "z": [

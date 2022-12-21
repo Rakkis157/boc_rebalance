@@ -3,12 +3,22 @@ Changelog
 Moves:
 
 Barrage
-ACC 85 -> 95
-Effect: Gains 30% chance to raise ATK by 1 stage
+Effect: Now hits all adjacent enemies. Each hit lowers defense by 1 stage.
+
+Chloroblast
+PWR 120 -> 150 (Gen 9)
+Effect: No longer slows
+
+Comet Punch
+PWR 18 -> 25
+Effect: Always hits 4 times
 
 Slam
 PWR 70 -> 100
 Targets: Adjacent target -> All adjacent enemies
+
+Spike Cannon
+Effect: Has a 30% chance to lower target's Defense by 1.
 
 Submission
 PWR 80 -> 100, ACC 80 -> 85
@@ -16,6 +26,17 @@ PWR 80 -> 100, ACC 80 -> 85
 
 Pokemon:
 
+001 Bulbasaur, 002 Ivysaur, 003 Venusaur
+Ability: Thick Fat
+
+004 Charmander, 005 Charmeleon, 006 Charizard
+Ability: Tough Claws
+
+007 Squirtle, 008 Wartortle
+Ability: Overcoat
+
+009 Blastoise
+Ability: Mega Launcher
 
 012 Butterfree
 HP 60 -> 80, ATK 45 -> 25, SPA 90 -> 100, SPE 70 -> 90
@@ -43,7 +64,7 @@ Moves: Fire Fang (Egg, Tutor), Ice Fang (Egg, Tutor), Thunder Fang (Egg, Tutor)
 
 020 Raticate
 ATK 81 -> 101, SPE 97 -> 102 (IE)
-Abilities: Run Away -> Strong Jaw
+Ability: Run Away -> Strong Jaw
 Moves: Extreme Speed (Level 49), Fire Fang (Egg, Tutor), Ice Fang (Egg, Tutor), Thunder Fang (Egg, Tutor)
 
 020 Raticate-Alola
@@ -52,11 +73,11 @@ Moves: Extreme Speed (Level 49), Fire Fang (Egg, Tutor), Ice Fang (Egg, Tutor), 
 
 021 Spearow
 HP 40 -> 45, DEF 30 -> 35 SPA 31 -> 21
-Abilities: Big Pecks
+Ability: Big Pecks
 
 022 Fearow
 HP 65 -> 80, ATK 90 -> 110, SPA 61 -> 26
-Abilities: Intimidate
+Ability: Intimidate
 
 023 Ekans
 HP 35 -> 50
@@ -97,11 +118,15 @@ HP 73 -> 83, SPD 100 -> 140
 
 040 Wigglytuff
 ATK 70 -> 50, DEF 45 -> 70, SPD 50 -> 75
-Abilities: Frisk -> Friend Guard
+Ability: Frisk -> Friend Guard
 Moves: Boomburst (Level 0)
+
+043 Oddish, 044 Gloom
+Ability: Effect Spore
 
 045 Vileplume
 HP 75 -> 85, ATK 80 -> 60, DEF 85 -> 95, SPA 110 -> 120, SPD 90 -> 100 (IE)
+Ability: Chlorophyll, Effect Spore, Stench
 Moves: Earth Power (TR)
 
 047 Parasect
@@ -112,12 +137,12 @@ Moves: Crabhammer (Level 0)
 SPA 90 -> 100, SPE 90 -> 100 (IE)
 
 052 Meowth
-Abilities: Unnerve -> Super Luck
+Ability: Unnerve -> Super Luck
 Moves: Focus Energy (Egg),
 
 053 Persian
 ATK 70 -> 110
-Abilities: Unnerve -> Super Luck
+Ability: Unnerve -> Super Luck
 Moves: Blaze Kick (TR, Level 0), Dazzling Gleam (TM), Drill Run (TR, Tutor), Focus Energy (Egg), Tail Slap (TM)
 
 053 Persian-Alola
@@ -126,15 +151,13 @@ Moves: Dazzling Gleam (TM)
 
 055 Golduck
 ATK 82 -> 102, SPA 95 -> 105 (IE)
-Abilities: Damp -> Tough Claws
+Ability: Damp -> Tough Claws
 Moves: Swords Dance (TM)
 
 062 Poliwrath
 ATK 95 -> 115 (IE)
 
-066 Machop
-067 Machoke
-068 Machamp
+066 Machop, 067 Machoke, 068 Machamp
 Moves: Mach Punch (Egg)
 
 076 Golem
@@ -147,39 +170,42 @@ Moves: Head Smash (Level 65)
 
 078 Rapidash
 HP 65 -> 85, ATK 100 -> 110 (IE)
-Abilities: Run Away -> Reckless
+Ability: Run Away -> Reckless
 Moves: Jump Kick (Level 0)
 
 078 Rapidash-Galar
 HP 65 -> 85, SPA 80 -> 90
-Abilities: Run Away -> Serene Grace
+Ability: Run Away -> Serene Grace
 Moves: Moonblast (Level 0), Ominous Wind (Level 0)
 
 083 Farfetch'd
 ATK 90 -> 132, SPA 58 -> 16
-Abilities: Keen Eye -> Aerilate
+Ability: Keen Eye -> Aerilate
 Moves: Extreme Speed (Egg), Sucker Punch (Egg)
 
 085 Dodrio
 HP 60 -> 80 (IE)
-Abilities: Moxie
+Ability: Moxie
 
 087 Dewgong
 HP 90 -> 110, DEF 80 -> 110, SPD 95 -> 125
-Abilities: Hydration -> Dazzling
+Ability: Hydration -> Dazzling
 Moves: Slack Off (Egg), Trick Room (TM), Wide Guard (Egg), Yawn (Egg)
 
 088 Grimer
-Abilities: Stench -> Gooey
+Ability: Stench -> Gooey
 
 089 Muk
 ATK 105 -> 115, DEF 75 -> 100, SPA 65 -> 43
-Abilities: Stench -> Gooey
+Ability: Stench -> Gooey
 Moves: Body Press (Level 48)
 
 089 Muk-Alola
 ATK 105 -> 125, DEF 75 -> 85, SPA 65 -> 48
 Moves: Body Press (Level 48)
+
+095 Onix
+Moves: Coil (Level 60), Shore Up (Level 64)
 
 097 Hypno
 HP 85 -> 95, SPA 73 -> 115 (IE)
@@ -188,12 +214,16 @@ HP 85 -> 95, SPA 73 -> 115 (IE)
 HP 60 -> 73, ATK 130 -> 140 (IE)
 Moves: Ice Hammer (Level 0)
 
+102 Exeggcute
+Ability: Solar Power
+Moves: Earth Power (Egg)
+
 103 Exeggutor
-Abilities: Solar Power
+Ability: Solar Power
 Moves: Earth Power (Egg)
 
 103 Exeggutor-Alola
-Abilities:
+Ability: Solar Power
 Moves: Dragon Dance (Level 0)
 
 105 Marowak
@@ -244,7 +274,118 @@ Moves: Slam (Egg)
 
 144 Articuno
 ATK 85 -> 65, SPA 95 -> 115
-Abilities: Snow Cloak -> Snow Warning
+Ability: Snow Cloak -> Snow Warning
+
+152 Chikorita, 153 Bayleaf, 154 Meganium
+Ability: Flower Veil, Leaf Guard -> Triage
+Moves: Draining Kiss (Egg), Strength Sap (Egg)
+
+155 Cyndaquill, 156 Quilava, 157 Typhlosion
+Ability: Sand Rush
+Moves: Earth Power (Egg), Weather Ball (Egg)
+
+157 Typhlosion-Hisui
+HP 78 -> 73, SPA 109 -> 119, SPE 100 -> 95 (Gen 9)
+Ability: Sand Rush, Flash Fire -> Frisk (Gen 9)
+
+158 Totodile, 159 Croconaw,
+Ability: Strong Jaw
+
+160 Feraligatr
+SPA 79 -> 69, SPE 78 -> 88 (IE)
+Ability: Strong Jaw
+
+161 Sentret
+Ability: Run Away -> Fur Coat
+
+162 Furret
+SPD 55 -> 75, SPE 90 -> 110 (IE)
+Ability: Run Away -> Fur Coat
+
+163 Noctowl
+DEF 50 -> 70, SPA 86 -> 96 (IE)
+Moves: Boomburst (Level 0), Calm Mind (TM)
+
+165 Ledyba
+ATK 20 -> 40, SPA 40 -> 20
+Moves: Close Combat (Egg), Leech Life (TM)
+
+166 Ledian
+ATK 35 -> 95, SPA 55 -> 35, SPE 85 -> 105
+Moves: Bullet Punch (Level 0), Close Combat (Egg), Leech Life (TM)
+
+168 Ariados
+HP 70 -> 80, ATK 90 -> 110, DEF 70 -> 80, SPD 70 -> 80 (IE)
+Ability: Swarm -> Merciless
+Moves: Psychic Fangs (Level 0)
+
+171 Lanturn
+SPA 76 -> 86, SPD 76 -> 86
+
+178 Xatu
+SPA 95 -> 115, SPE 95 -> 105
+
+179 Mareep, 180 Flaffy
+Ability: Mold Breaker
+Moves: Parabolic Charge (Egg), Tail Glow (Level 48, 60)
+
+181 Ampharos
+Ability: Mold Breaker
+Moves: Draco Meteor (Tutor), Dragon Breath (TM), Parabolic Charge (Egg), Tail Glow (Level 68)
+
+182 Bellossom
+HP 75 -> 90, ATK 80 -> 60, SPA 90 -> 110
+Ability: Dancer
+Moves: Earth Power (TM), Fiery Dance (level 0)
+
+185 Sudowoodo
+ATK 100 -> 110, DEF 115 -> 125
+
+186 Politoed
+HP 90 -> 110, SPA 90 -> 100
+Moves: Boomburst
+
+189 Jumpluff
+ATK 55 -> 75, SPE 110 -> 130
+
+192 Sunflora
+HP 75 -> 95, SPA 105 -> 125
+Type: Grass -> Grass/Fire
+Ability: Early Bird -> Drought
+Moves: Chloroblast (Level 0), Mystical Fire (Level 37), Fire Blast (TM), Flamethrower (TM), Overheat (TM)
+
+195 Quagsire
+ATK 85 -> 95, DEF 85 -> 95
+
+200 Misdreavus
+Moves: Moonblast (Egg)
+
+205 Forretress
+ATK 90 -> 100, SPD 60 -> 80, SPE 40 -> 20
+Moves: Sticky Web (Level 0)
+
+206 Dunsparce
+Moves: Iron Head (TR)
+
+208 Steelix
+ATK 85 -> 105, SPD 65 -> 75, SPE 30 -> 20
+Moves: Coil (Level 64), Shore Up (Level 68)
+
+208 Steelix-Mega
+ATK 125 -> 145, SPD 95 -> 105, SPE 30 -> 20
+Moves: Coil (Level 64), Shore Up (Level 68)
+
+210 Granbull
+Type: Fairy -> Fairy/Fighting
+
+211 Qwilfish
+DEF 85 -> 115
+Moves: Aqua Ring (Egg), Spiky Shield (Level 0)
+
+222 Corsola
+HP 65 -> 105, ATK 55 -> 35, SPE 35 -> 15
+Moves: Spiky Shield (Level 0), Wide Guard (Egg)
+
 
 239 Elekid
 Moves: Volt Tackle (Level 48)

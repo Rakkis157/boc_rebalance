@@ -1,344 +1,368 @@
 {
-  "name": "Sunflora",
-  "dex": 192,
+  "name": "Sentret",
+  "dex": 161,
   "defaultForms": [
     ""
   ],
   "forms": [
     {
       "name": "",
-      "experienceGroup": "MEDIUM_SLOW",
+      "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 0.8,
-        "width": 0.6,
+        "height": 1.0,
+        "width": 1.0,
         "length": 1,
-        "eyeHeight": 0.8,
-        "hoverHeight": 0.8
+        "eyeHeight": 1.0,
+        "hoverHeight": 1.0
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Absorb",
-              "Chloroblast",
-              "Flower Shield",
-              "Growth",
-              "Pound"
+              "Foresight",
+              "Scratch"
             ]
           },
           {
             "level": 4,
             "attacks": [
-              "Ingrain"
+              "Defense Curl"
             ]
           },
           {
             "level": 7,
             "attacks": [
-              "Grass Whistle"
-            ]
-          },
-          {
-            "level": 10,
-            "attacks": [
-              "Mega Drain"
+              "Quick Attack"
             ]
           },
           {
             "level": 13,
             "attacks": [
-              "Leech Seed"
+              "Fury Swipes"
             ]
           },
           {
             "level": 16,
             "attacks": [
-              "Razor Leaf"
+              "Helping Hand"
             ]
           },
           {
             "level": 19,
             "attacks": [
-              "Worry Seed"
-            ]
-          },
-          {
-            "level": 22,
-            "attacks": [
-              "Giga Drain"
+              "Follow Me"
             ]
           },
           {
             "level": 25,
             "attacks": [
-              "Bullet Seed"
+              "Slam"
             ]
           },
           {
             "level": 28,
             "attacks": [
-              "Petal Dance"
+              "Rest"
             ]
           },
           {
             "level": 31,
             "attacks": [
-              "Natural Gift"
+              "Sucker Punch"
             ]
           },
           {
-            "level": 34,
+            "level": 36,
             "attacks": [
-              "Solar Beam"
+              "Amnesia"
             ]
           },
           {
-            "level": 37,
+            "level": 39,
             "attacks": [
-              "Mystical Fire"
+              "Baton Pass"
             ]
           },
           {
-            "level": 40,
+            "level": 42,
             "attacks": [
-              "Sunny Day"
+              "Me First"
             ]
           },
           {
-            "level": 43,
+            "level": 47,
             "attacks": [
-              "Leaf Storm"
-            ]
-          },
-          {
-            "level": 46,
-            "attacks": [
-              "Double-Edge"
-            ]
-          },
-          {
-            "level": 50,
-            "attacks": [
-              "Petal Blizzard"
+              "Hyper Voice"
             ]
           }
         ],
         "tutorMoves": [
-          "After You",
-          "Earth Power",
-          "Endeavor",
-          "Giga Drain",
+          "Aqua Tail",
+          "Covet",
+          "Fire Punch",
+          "Focus Punch",
           "Helping Hand",
-          "Seed Bomb",
+          "Hyper Voice",
+          "Ice Punch",
+          "Iron Tail",
+          "Knock Off",
+          "Last Resort",
+          "Shock Wave",
           "Snore",
-          "Synthesis",
+          "Super Fang",
+          "Thunder Punch",
+          "Trick",
           "Uproar",
-          "Worry Seed"
+          "Water Pulse"
         ],
         "eggMoves": [
-          "Bide",
-          "Curse",
-          "Encore",
-          "Endure",
-          "Grass Whistle",
-          "Grassy Terrain",
-          "Helping Hand",
-          "Ingrain",
-          "Leech Seed",
-          "Morning Sun",
+          "Assist",
+          "Baby-Doll Eyes",
+          "Captivate",
+          "Charm",
+          "Covet",
+          "Double-Edge",
+          "Focus Energy",
+          "Iron Tail",
+          "Last Resort",
           "Natural Gift",
-          "Nature Power",
-          "Sweet Scent"
+          "Pursuit",
+          "Reversal",
+          "Slash",
+          "Trick"
         ],
         "tmMoves8": [],
         "trMoves": [],
         "hmMoves": [],
         "transferMoves": [
-          "Captivate",
+          "Body Slam",
+          "Curse",
           "Cut",
-          "Flash",
+          "Detect",
+          "Dig",
+          "Dynamic Punch",
+          "Endure",
+          "Fury Cutter",
+          "Headbutt",
+          "Hone Claws",
           "Mimic",
-          "Secret Power"
+          "Mud-Slap",
+          "Power-Up Punch",
+          "Retaliate",
+          "Rollout",
+          "Secret Power",
+          "Swift",
+          "Tackle",
+          "Whirlpool"
         ],
         "tmMoves7": [
+          "Work Up",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
+          "Ice Beam",
           "Protect",
-          "Safeguard",
+          "Rain Dance",
           "Frustration",
           "Solar Beam",
+          "Thunderbolt",
           "Return",
+          "Shadow Ball",
+          "Brick Break",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
-          "Fire Blast",
           "Facade",
           "Rest",
           "Attract",
+          "Thief",
           "Round",
-          "Overheat",
-          "Energy Ball",
-          "Giga Impact",
-          "Swords Dance",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Brutal Swing",
+          "Shadow Claw",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
+          "U-turn",
           "Substitute",
-          "Nature Power",
+          "Surf",
           "Confide"
         ],
         "tmMoves6": [
+          "Hone Claws",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
+          "Ice Beam",
           "Protect",
-          "Safeguard",
+          "Rain Dance",
           "Frustration",
           "Solar Beam",
+          "Thunderbolt",
           "Return",
+          "Dig",
+          "Shadow Ball",
+          "Brick Break",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
-          "Fire Blast",
           "Facade",
           "Rest",
           "Attract",
+          "Thief",
           "Round",
-          "Overheat",
-          "Energy Ball",
-          "Giga Impact",
-          "Flash",
-          "Swords Dance",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Shadow Claw",
+          "Retaliate",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
+          "U-turn",
           "Substitute",
           "Secret Power",
-          "Nature Power",
+          "Power-Up Punch",
           "Confide"
         ],
         "tmMoves5": [
+          "Hone Claws",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
+          "Ice Beam",
           "Protect",
-          "Safeguard",
+          "Rain Dance",
           "Frustration",
           "Solar Beam",
+          "Thunderbolt",
           "Return",
+          "Dig",
+          "Shadow Ball",
+          "Brick Break",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
-          "Fire Blast",
           "Facade",
           "Rest",
           "Attract",
+          "Thief",
           "Round",
-          "Overheat",
-          "Energy Ball",
-          "Giga Impact",
-          "Flash",
-          "Swords Dance",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Shadow Claw",
+          "Retaliate",
+          "Work Up",
           "Grass Knot",
           "Swagger",
+          "U-turn",
           "Substitute"
         ],
         "tmMoves4": [
+          "Focus Punch",
+          "Water Pulse",
           "Toxic",
-          "Bullet Seed",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
+          "Ice Beam",
           "Protect",
-          "Giga Drain",
-          "Safeguard",
+          "Rain Dance",
           "Frustration",
           "Solar Beam",
+          "Iron Tail",
+          "Thunderbolt",
           "Return",
+          "Dig",
+          "Shadow Ball",
+          "Brick Break",
           "Double Team",
+          "Shock Wave",
           "Flamethrower",
-          "Sludge Bomb",
-          "Fire Blast",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
-          "Overheat",
-          "Energy Ball",
+          "Thief",
+          "Fling",
+          "Charge Beam",
           "Endure",
-          "Giga Impact",
-          "Flash",
-          "Swords Dance",
+          "Shadow Claw",
           "Captivate",
           "Sleep Talk",
           "Natural Gift",
           "Grass Knot",
           "Swagger",
+          "U-turn",
           "Substitute"
         ],
         "tmMoves3": [
+          "Focus Punch",
+          "Water Pulse",
           "Toxic",
-          "Bullet Seed",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
+          "Ice Beam",
           "Protect",
-          "Giga Drain",
-          "Safeguard",
+          "Rain Dance",
           "Frustration",
           "Solar Beam",
+          "Iron Tail",
+          "Thunderbolt",
           "Return",
+          "Dig",
+          "Shadow Ball",
+          "Brick Break",
           "Double Team",
+          "Shock Wave",
           "Flamethrower",
-          "Sludge Bomb",
-          "Fire Blast",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
-          "Overheat"
+          "Thief"
         ],
         "tmMoves2": [
+          "Dynamic Punch",
+          "Headbutt",
           "Curse",
+          "Rollout",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Sweet Scent",
           "Snore",
-          "Hyper Beam",
           "Protect",
-          "Giga Drain",
           "Endure",
           "Frustration",
-          "Solar Beam",
+          "Iron Tail",
           "Return",
+          "Dig",
+          "Shadow Ball",
+          "Mud-Slap",
           "Double Team",
+          "Ice Punch",
           "Swagger",
           "Sleep Talk",
-          "Sludge Bomb",
+          "Swift",
+          "Defense Curl",
+          "Thunder Punch",
+          "Detect",
           "Rest",
-          "Attract"
+          "Attract",
+          "Thief",
+          "Fire Punch",
+          "Fury Cutter"
         ],
         "tmMoves1": [],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "Chlorophyll",
-          "SolarPower"
+          "FurCoat",
+          "KeenEye"
         ],
         "hiddenAbilities": [
-          "Drought"
+          "Frisk"
         ]
       },
       "movement": {
@@ -353,19 +377,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 95,
-        "attack": 75,
-        "defense": 55,
-        "specialAttack": 125,
-        "specialDefense": 85,
-        "speed": 30
+        "hp": 35,
+        "attack": 46,
+        "defense": 34,
+        "specialAttack": 35,
+        "specialDefense": 45,
+        "speed": 20
       },
       "tags": [],
       "spawn": {
-        "baseExp": 146,
+        "baseExp": 57,
         "baseFriendship": 70,
-        "spawnLevel": 10,
-        "spawnLevelRange": 40,
+        "spawnLevel": 5,
+        "spawnLevelRange": 9,
         "spawnLocations": [
           "LAND"
         ]
@@ -380,39 +404,48 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/192_sunflora/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/192_sunflora/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/161_sentret/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/161_sentret/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/192_sunflora/all/base/none/model.pqc"
+                  "pixelmon:pokemon/161_sentret/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.sunflora",
-                "pixelmon.mob.sunflora"
+                "pixelmon.mob.sentret",
+                "pixelmon.mob.sentret"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/192_sunflora/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/192_sunflora/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/161_sentret/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/161_sentret/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
+            },
+            {
+              "name": "online",
+              "texture": "pixelmon:pokemon/161_sentret/all/base/online/texture.png",
+              "sprite": "pixelmon:pokemon/161_sentret/all/base/online/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/161_sentret/all/base/online/model.pqc"
+                ]
+              }
             }
           ]
         }
       ],
       "eggGroups": [
-        "GRASS"
+        "FIELD"
       ],
       "types": [
-        "GRASS",
-        "FIRE"
+        "NORMAL"
       ],
-      "preEvolutions": [
-        "Sunkern"
-      ],
+      "preEvolutions": [],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -420,13 +453,23 @@
         "canHaveFactor": false,
         "canGigantamax": false
       },
-      "eggCycles": 21,
-      "weight": 8.5,
-      "catchRate": 120,
+      "eggCycles": 16,
+      "weight": 6.0,
+      "catchRate": 255,
       "malePercentage": 50,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "level": 15,
+          "to": "Furret",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Agility"
+          ]
+        }
+      ],
       "evYields": {
-        "specialAttack": 2
+        "attack": 1
       }
     }
   ],

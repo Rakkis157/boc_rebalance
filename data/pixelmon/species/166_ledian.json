@@ -20,6 +20,7 @@
           {
             "level": 0,
             "attacks": [
+              "Bullet Punch",
               "Supersonic",
               "Swift",
               "Tackle"
@@ -111,6 +112,7 @@
           "Bide",
           "Bug Bite",
           "Bug Buzz",
+          "Close Combat",
           "Counter",
           "Dizzy Punch",
           "Drain Punch",
@@ -160,6 +162,7 @@
           "Frustration",
           "Solar Beam",
           "Return",
+          "Leech Life",
           "Brick Break",
           "Double Team",
           "Reflect",

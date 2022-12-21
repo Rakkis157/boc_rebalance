@@ -295,10 +295,11 @@
       },
       "abilities": {
         "abilities": [
-          "Chlorophyll"
+          "Chlorophyll",
+          "EffectSpore"
         ],
         "hiddenAbilities": [
-          "EffectSpore"
+          "Stench"
         ]
       },
       "movement": {

@@ -1,6 +1,6 @@
 {
-  "name": "Sunflora",
-  "dex": 192,
+  "name": "Cyndaquil",
+  "dex": 155,
   "defaultForms": [
     ""
   ],
@@ -9,185 +9,174 @@
       "name": "",
       "experienceGroup": "MEDIUM_SLOW",
       "dimensions": {
-        "height": 0.8,
-        "width": 0.6,
+        "height": 0.6,
+        "width": 0.8,
         "length": 1,
-        "eyeHeight": 0.8,
-        "hoverHeight": 0.8
+        "eyeHeight": 0.6,
+        "hoverHeight": 0.6
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Absorb",
-              "Chloroblast",
-              "Flower Shield",
-              "Growth",
-              "Pound"
+              "Leer",
+              "Tackle"
             ]
           },
           {
-            "level": 4,
+            "level": 6,
             "attacks": [
-              "Ingrain"
-            ]
-          },
-          {
-            "level": 7,
-            "attacks": [
-              "Grass Whistle"
+              "Smokescreen"
             ]
           },
           {
             "level": 10,
             "attacks": [
-              "Mega Drain"
+              "Ember"
             ]
           },
           {
             "level": 13,
             "attacks": [
-              "Leech Seed"
-            ]
-          },
-          {
-            "level": 16,
-            "attacks": [
-              "Razor Leaf"
+              "Quick Attack"
             ]
           },
           {
             "level": 19,
             "attacks": [
-              "Worry Seed"
+              "Flame Wheel"
             ]
           },
           {
             "level": 22,
             "attacks": [
-              "Giga Drain"
-            ]
-          },
-          {
-            "level": 25,
-            "attacks": [
-              "Bullet Seed"
+              "Defense Curl"
             ]
           },
           {
             "level": 28,
             "attacks": [
-              "Petal Dance"
+              "Flame Charge"
             ]
           },
           {
             "level": 31,
             "attacks": [
-              "Natural Gift"
-            ]
-          },
-          {
-            "level": 34,
-            "attacks": [
-              "Solar Beam"
+              "Swift"
             ]
           },
           {
             "level": 37,
             "attacks": [
-              "Mystical Fire"
+              "Lava Plume"
             ]
           },
           {
             "level": 40,
             "attacks": [
-              "Sunny Day"
-            ]
-          },
-          {
-            "level": 43,
-            "attacks": [
-              "Leaf Storm"
+              "Flamethrower"
             ]
           },
           {
             "level": 46,
             "attacks": [
+              "Inferno"
+            ]
+          },
+          {
+            "level": 49,
+            "attacks": [
+              "Rollout"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
               "Double-Edge"
             ]
           },
           {
-            "level": 50,
+            "level": 58,
             "attacks": [
-              "Petal Blizzard"
+              "Burn Up"
+            ]
+          },
+          {
+            "level": 64,
+            "attacks": [
+              "Eruption"
             ]
           }
         ],
         "tutorMoves": [
-          "After You",
-          "Earth Power",
-          "Endeavor",
-          "Giga Drain",
-          "Helping Hand",
-          "Seed Bomb",
-          "Snore",
-          "Synthesis",
-          "Uproar",
-          "Worry Seed"
+          "Covet",
+          "Fire Pledge",
+          "Heat Wave",
+          "Snore"
         ],
         "eggMoves": [
-          "Bide",
-          "Curse",
-          "Encore",
-          "Endure",
-          "Grass Whistle",
-          "Grassy Terrain",
-          "Helping Hand",
-          "Ingrain",
-          "Leech Seed",
-          "Morning Sun",
-          "Natural Gift",
+          "Covet",
+          "Crush Claw",
+          "Double Kick",
+          "Double-Edge",
+          "Earth Power",
+          "Extrasensory",
+          "Flame Burst",
+          "Flare Blitz",
+          "Foresight",
+          "Fury Swipes",
+          "Howl",
           "Nature Power",
-          "Sweet Scent"
+          "Quick Attack",
+          "Reversal",
+          "Thrash",
+          "Weather Ball"
         ],
         "tmMoves8": [],
         "trMoves": [],
         "hmMoves": [],
         "transferMoves": [
+          "Blast Burn",
+          "Body Slam",
           "Captivate",
+          "Curse",
           "Cut",
-          "Flash",
+          "Detect",
+          "Dig",
+          "Endure",
+          "Headbutt",
+          "Incinerate",
+          "Iron Tail",
           "Mimic",
-          "Secret Power"
+          "Mud-Slap",
+          "Natural Gift",
+          "Secret Power",
+          "Submission"
         ],
         "tmMoves7": [
+          "Work Up",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
           "Protect",
-          "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
           "Fire Blast",
+          "Aerial Ace",
           "Facade",
+          "Flame Charge",
           "Rest",
           "Attract",
           "Round",
           "Overheat",
-          "Energy Ball",
-          "Giga Impact",
-          "Swords Dance",
-          "Grass Knot",
+          "Will-O-Wisp",
           "Swagger",
           "Sleep Talk",
           "Substitute",
+          "Wild Charge",
           "Nature Power",
           "Confide"
         ],
@@ -195,30 +184,26 @@
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
           "Protect",
-          "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
+          "Dig",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
           "Fire Blast",
+          "Aerial Ace",
           "Facade",
+          "Flame Charge",
           "Rest",
           "Attract",
           "Round",
           "Overheat",
-          "Energy Ball",
-          "Giga Impact",
-          "Flash",
-          "Swords Dance",
-          "Grass Knot",
+          "Incinerate",
+          "Will-O-Wisp",
           "Swagger",
           "Sleep Talk",
           "Substitute",
+          "Wild Charge",
           "Secret Power",
           "Nature Power",
           "Confide"
@@ -227,81 +212,63 @@
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
           "Protect",
-          "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
+          "Dig",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
           "Fire Blast",
+          "Aerial Ace",
           "Facade",
+          "Flame Charge",
           "Rest",
           "Attract",
           "Round",
           "Overheat",
-          "Energy Ball",
-          "Giga Impact",
-          "Flash",
-          "Swords Dance",
-          "Grass Knot",
+          "Incinerate",
+          "Will-O-Wisp",
           "Swagger",
-          "Substitute"
+          "Substitute",
+          "Wild Charge"
         ],
         "tmMoves4": [
           "Toxic",
-          "Bullet Seed",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
           "Protect",
-          "Giga Drain",
-          "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
+          "Dig",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
           "Fire Blast",
+          "Aerial Ace",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
           "Overheat",
-          "Energy Ball",
           "Endure",
-          "Giga Impact",
-          "Flash",
-          "Swords Dance",
+          "Will-O-Wisp",
           "Captivate",
           "Sleep Talk",
           "Natural Gift",
-          "Grass Knot",
           "Swagger",
           "Substitute"
         ],
         "tmMoves3": [
           "Toxic",
-          "Bullet Seed",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
-          "Light Screen",
           "Protect",
-          "Giga Drain",
-          "Safeguard",
           "Frustration",
-          "Solar Beam",
           "Return",
+          "Dig",
           "Double Team",
           "Flamethrower",
-          "Sludge Bomb",
           "Fire Blast",
+          "Aerial Ace",
           "Facade",
           "Secret Power",
           "Rest",
@@ -309,23 +276,27 @@
           "Overheat"
         ],
         "tmMoves2": [
+          "Headbutt",
           "Curse",
+          "Rollout",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Sweet Scent",
           "Snore",
-          "Hyper Beam",
           "Protect",
-          "Giga Drain",
           "Endure",
           "Frustration",
-          "Solar Beam",
+          "Iron Tail",
           "Return",
+          "Dig",
+          "Mud-Slap",
           "Double Team",
           "Swagger",
           "Sleep Talk",
-          "Sludge Bomb",
+          "Fire Blast",
+          "Swift",
+          "Defense Curl",
+          "Detect",
           "Rest",
           "Attract"
         ],
@@ -334,11 +305,11 @@
       },
       "abilities": {
         "abilities": [
-          "Chlorophyll",
-          "SolarPower"
+          "Blaze",
+          "SandRush"
         ],
         "hiddenAbilities": [
-          "Drought"
+          "FlashFire"
         ]
       },
       "movement": {
@@ -353,19 +324,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 95,
-        "attack": 75,
-        "defense": 55,
-        "specialAttack": 125,
-        "specialDefense": 85,
-        "speed": 30
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "specialAttack": 60,
+        "specialDefense": 50,
+        "speed": 65
       },
       "tags": [],
       "spawn": {
-        "baseExp": 146,
+        "baseExp": 65,
         "baseFriendship": 70,
-        "spawnLevel": 10,
-        "spawnLevelRange": 40,
+        "spawnLevel": 9,
+        "spawnLevelRange": 5,
         "spawnLocations": [
           "LAND"
         ]
@@ -380,39 +351,35 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/192_sunflora/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/192_sunflora/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/155_cyndaquil/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/155_cyndaquil/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/192_sunflora/all/base/none/model.pqc"
+                  "pixelmon:pokemon/155_cyndaquil/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.sunflora",
-                "pixelmon.mob.sunflora"
+                "pixelmon.mob.cyndaquil"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/192_sunflora/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/192_sunflora/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/155_cyndaquil/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/155_cyndaquil/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             }
           ]
         }
       ],
       "eggGroups": [
-        "GRASS"
+        "FIELD"
       ],
       "types": [
-        "GRASS",
         "FIRE"
       ],
-      "preEvolutions": [
-        "Sunkern"
-      ],
+      "preEvolutions": [],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -421,12 +388,19 @@
         "canGigantamax": false
       },
       "eggCycles": 21,
-      "weight": 8.5,
-      "catchRate": 120,
-      "malePercentage": 50,
-      "evolutions": [],
+      "weight": 7.9,
+      "catchRate": 45,
+      "malePercentage": 87,
+      "evolutions": [
+        {
+          "level": 14,
+          "to": "Quilava",
+          "conditions": [],
+          "evoType": "leveling"
+        }
+      ],
       "evYields": {
-        "specialAttack": 2
+        "speed": 1
       }
     }
   ],
